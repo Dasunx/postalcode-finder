@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:postal_codes/classes/Routing.dart';
 import 'package:postal_codes/classes/Themes.dart';
 import 'package:postal_codes/screens/HomeScreen.dart';
+import 'package:postal_codes/screens/SplashScreen.dart';
 import 'package:provider/provider.dart';
 
 import 'classes/DarkThemeProvider.dart';
@@ -42,7 +43,7 @@ class _MyAppState extends State<MyApp> {
             title: 'Flutter Widgets',
             theme: Themes.themeData(themeChangeProvider.darkTheme, context),
             onGenerateRoute: Routing.generateRoute,
-            initialRoute: HomeScreen.id,
+            initialRoute: SplashScreen.id,
           );
         },
       ),

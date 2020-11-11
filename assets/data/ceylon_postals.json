@@ -1,0 +1,7393 @@
+{
+	"provinces": [
+		{
+			"province": "Central",
+			"towns": [
+				{
+					"town": "Agarapathana",
+					"postal_code": "22094"
+				},
+				{
+					"town": "Akuramboda",
+					"postal_code": "21142"
+				},
+				{
+					"town": "Akurana",
+					"postal_code": "20850"
+				},
+				{
+					"town": "Alawatugoda",
+					"postal_code": "20140"
+				},
+				{
+					"town": "Aludeniya",
+					"postal_code": "20062"
+				},
+				{
+					"town": "Alwatta",
+					"postal_code": "21004"
+				},
+				{
+					"town": "Ambagahapelessa",
+					"postal_code": "20986"
+				},
+				{
+					"town": "Ambagamuwa Udabulathgama",
+					"postal_code": "20678"
+				},
+				{
+					"town": "Ambana",
+					"postal_code": "21504"
+				},
+				{
+					"town": "Ambatalawa",
+					"postal_code": "20686"
+				},
+				{
+					"town": "Ambatenna",
+					"postal_code": "20136"
+				},
+				{
+					"town": "Ambewela",
+					"postal_code": "22216"
+				},
+				{
+					"town": "Ampitiya",
+					"postal_code": "20160"
+				},
+				{
+					"town": "Ankumbura",
+					"postal_code": "20150"
+				},
+				{
+					"town": "Atabage",
+					"postal_code": "20574"
+				},
+				{
+					"town": "Ataragallewa",
+					"postal_code": "21512"
+				},
+				{
+					"town": "Balana",
+					"postal_code": "20308"
+				},
+				{
+					"town": "Bambaragahaela",
+					"postal_code": "20644"
+				},
+				{
+					"town": "Bambaragaswewa",
+					"postal_code": "21212"
+				},
+				{
+					"town": "Barawardhana Oya",
+					"postal_code": "20967"
+				},
+				{
+					"town": "Batagolladeniya",
+					"postal_code": "20154"
+				},
+				{
+					"town": "Batugoda",
+					"postal_code": "20132"
+				},
+				{
+					"town": "Batumulla",
+					"postal_code": "20966"
+				},
+				{
+					"town": "Bawlana",
+					"postal_code": "20218"
+				},
+				{
+					"town": "Beligamuwa",
+					"postal_code": "21214"
+				},
+				{
+					"town": "Bogawantalawa",
+					"postal_code": "22060"
+				},
+				{
+					"town": "Bopana",
+					"postal_code": "20932"
+				},
+				{
+					"town": "Bopattalawa",
+					"postal_code": "22095"
+				},
+				{
+					"town": "Dagampitiya",
+					"postal_code": "20684"
+				},
+				{
+					"town": "Dambulla",
+					"postal_code": "21100"
+				},
+				{
+					"town": "Dankanda",
+					"postal_code": "21032"
+				},
+				{
+					"town": "Danture",
+					"postal_code": "20465"
+				},
+				{
+					"town": "Dayagama Bazaar",
+					"postal_code": "22096"
+				},
+				{
+					"town": "Dedunupitiya",
+					"postal_code": "20068"
+				},
+				{
+					"town": "Dekinda",
+					"postal_code": "20658"
+				},
+				{
+					"town": "Deltota",
+					"postal_code": "20430"
+				},
+				{
+					"town": "Devagiriya",
+					"postal_code": "21552"
+				},
+				{
+					"town": "Dewahuwa",
+					"postal_code": "21206"
+				},
+				{
+					"town": "Dikoya",
+					"postal_code": "22050"
+				},
+				{
+					"town": "Dolapihilla",
+					"postal_code": "20126"
+				},
+				{
+					"town": "Dolosbage",
+					"postal_code": "20510"
+				},
+				{
+					"town": "Doluwa",
+					"postal_code": "20532"
+				},
+				{
+					"town": "Doragala",
+					"postal_code": "20567"
+				},
+				{
+					"town": "Doragamuwa",
+					"postal_code": "20816"
+				},
+				{
+					"town": "Dullewa",
+					"postal_code": "21054"
+				},
+				{
+					"town": "Dunkolawatta",
+					"postal_code": "21046"
+				},
+				{
+					"town": "Dunukedeniya",
+					"postal_code": "22002"
+				},
+				{
+					"town": "Dunuwila",
+					"postal_code": "20824"
+				},
+				{
+					"town": "Dunuwilapitiya",
+					"postal_code": "21538"
+				},
+				{
+					"town": "Ekiriya",
+					"postal_code": "20732"
+				},
+				{
+					"town": "Elamulla",
+					"postal_code": "20742"
+				},
+				{
+					"town": "Elkaduwa",
+					"postal_code": "21012"
+				},
+				{
+					"town": "Erawula Junction",
+					"postal_code": "21108"
+				},
+				{
+					"town": "Etanawala",
+					"postal_code": "21402"
+				},
+				{
+					"town": "Etulgama",
+					"postal_code": "20202"
+				},
+				{
+					"town": "Galaboda",
+					"postal_code": "20664"
+				},
+				{
+					"town": "Galagedara",
+					"postal_code": "20100"
+				},
+				{
+					"town": "Galaha",
+					"postal_code": "20420"
+				},
+				{
+					"town": "Galewela",
+					"postal_code": "21200"
+				},
+				{
+					"town": "Galhinna",
+					"postal_code": "20152"
+				},
+				{
+					"town": "Gallellagama",
+					"postal_code": "20095"
+				},
+				{
+					"town": "Gammaduwa",
+					"postal_code": "21068"
+				},
+				{
+					"town": "Gampola",
+					"postal_code": "20500"
+				},
+				{
+					"town": "Gangala Puwakpitiya",
+					"postal_code": "21404"
+				},
+				{
+					"town": "Gelioya",
+					"postal_code": "20620"
+				},
+				{
+					"town": "Ginigathena",
+					"postal_code": "20680"
+				},
+				{
+					"town": "Godamunna",
+					"postal_code": "20214"
+				},
+				{
+					"town": "Gomagoda",
+					"postal_code": "20184"
+				},
+				{
+					"town": "Gonagantenna",
+					"postal_code": "20712"
+				},
+				{
+					"town": "Gonakele",
+					"postal_code": "22226"
+				},
+				{
+					"town": "Gonawalapatana",
+					"postal_code": "20656"
+				},
+				{
+					"town": "Gunnepana",
+					"postal_code": "20270"
+				},
+				{
+					"town": "Gurudeniya",
+					"postal_code": "20189"
+				},
+				{
+					"town": "Haggala",
+					"postal_code": "22208"
+				},
+				{
+					"town": "Halgranoya",
+					"postal_code": "22240"
+				},
+				{
+					"town": "Halloluwa",
+					"postal_code": "20032"
+				},
+				{
+					"town": "Handaganawa",
+					"postal_code": "20984"
+				},
+				{
+					"town": "Handawalapitiya",
+					"postal_code": "20438"
+				},
+				{
+					"town": "Handessa",
+					"postal_code": "20480"
+				},
+				{
+					"town": "Handungamuwa",
+					"postal_code": "21536"
+				},
+				{
+					"town": "Hangarapitiya",
+					"postal_code": "22044"
+				},
+				{
+					"town": "Hanguranketha",
+					"postal_code": "20710"
+				},
+				{
+					"town": "Hapugastalawa",
+					"postal_code": "20668"
+				},
+				{
+					"town": "Harangalagama",
+					"postal_code": "20669"
+				},
+				{
+					"town": "Harankahawa",
+					"postal_code": "20092"
+				},
+				{
+					"town": "Harasbedda",
+					"postal_code": "22262"
+				},
+				{
+					"town": "Hasalaka",
+					"postal_code": "20960"
+				},
+				{
+					"town": "Hataraliyadda",
+					"postal_code": "20060"
+				},
+				{
+					"town": "Hatton",
+					"postal_code": "22000"
+				},
+				{
+					"town": "Hattota Amuna",
+					"postal_code": "21514"
+				},
+				{
+					"town": "Hedunuwewa",
+					"postal_code": "22024"
+				},
+				{
+					"town": "Hewaheta",
+					"postal_code": "20440"
+				},
+				{
+					"town": "Hindagala",
+					"postal_code": "20414"
+				},
+				{
+					"town": "Hitigegama",
+					"postal_code": "22046"
+				},
+				{
+					"town": "Hondiyadeniya",
+					"postal_code": "20524"
+				},
+				{
+					"town": "Hunnasgiriya",
+					"postal_code": "20948"
+				},
+				{
+					"town": "Imbulgolla",
+					"postal_code": "21064"
+				},
+				{
+					"town": "Inamaluwa",
+					"postal_code": "21124"
+				},
+				{
+					"town": "Jambugahapitiya",
+					"postal_code": "20822"
+				},
+				{
+					"town": "Kadugannawa",
+					"postal_code": "20300"
+				},
+				{
+					"town": "Kahataliyadda",
+					"postal_code": "20924"
+				},
+				{
+					"town": "Kaikawala",
+					"postal_code": "21066"
+				},
+				{
+					"town": "Kalaganwatta",
+					"postal_code": "22282"
+				},
+				{
+					"town": "Kalugala",
+					"postal_code": "20926"
+				},
+				{
+					"town": "Kalundawa",
+					"postal_code": "21112"
+				},
+				{
+					"town": "Kandalama",
+					"postal_code": "21106"
+				},
+				{
+					"town": "Kandapola",
+					"postal_code": "22220"
+				},
+				{
+					"town": "Kandy",
+					"postal_code": "20000"
+				},
+				{
+					"town": "Kapuliyadde",
+					"postal_code": "20206"
+				},
+				{
+					"town": "Karagahinna",
+					"postal_code": "21014"
+				},
+				{
+					"town": "Karandagolla",
+					"postal_code": "20738"
+				},
+				{
+					"town": "Katudeniya",
+					"postal_code": "21016"
+				},
+				{
+					"town": "Katugastota",
+					"postal_code": "20800"
+				},
+				{
+					"town": "Katukitula",
+					"postal_code": "20588"
+				},
+				{
+					"town": "Kavudupelella",
+					"postal_code": "21072"
+				},
+				{
+					"town": "Keerthi Bandarapura",
+					"postal_code": "22274"
+				},
+				{
+					"town": "Kelanigama",
+					"postal_code": "20688"
+				},
+				{
+					"town": "Kengalla",
+					"postal_code": "20186"
+				},
+				{
+					"town": "Ketaboola",
+					"postal_code": "20660"
+				},
+				{
+					"town": "Ketakumbura",
+					"postal_code": "20306"
+				},
+				{
+					"town": "Ketawala Leula",
+					"postal_code": "20198"
+				},
+				{
+					"town": "Kibissa",
+					"postal_code": "21122"
+				},
+				{
+					"town": "Kiribathkumbura",
+					"postal_code": "20442"
+				},
+				{
+					"town": "Kiwula",
+					"postal_code": "21042"
+				},
+				{
+					"town": "Kobonila",
+					"postal_code": "20928"
+				},
+				{
+					"town": "Kolabissa",
+					"postal_code": "20212"
+				},
+				{
+					"town": "Kolongoda",
+					"postal_code": "20971"
+				},
+				{
+					"town": "Kongahawela",
+					"postal_code": "21500"
+				},
+				{
+					"town": "Kotagala",
+					"postal_code": "22080"
+				},
+				{
+					"town": "Kotmale",
+					"postal_code": "20560"
+				},
+				{
+					"town": "Kottellena",
+					"postal_code": "22040"
+				},
+				{
+					"town": "Kulugammana",
+					"postal_code": "20048"
+				},
+				{
+					"town": "Kumbalgamuwa",
+					"postal_code": "22272"
+				},
+				{
+					"town": "Kumbukkandura",
+					"postal_code": "20902"
+				},
+				{
+					"town": "Kumbukwela",
+					"postal_code": "22246"
+				},
+				{
+					"town": "Kumburegama",
+					"postal_code": "20086"
+				},
+				{
+					"town": "Kundasale",
+					"postal_code": "20168"
+				},
+				{
+					"town": "Kurupanawela",
+					"postal_code": "22252"
+				},
+				{
+					"town": "Labukele",
+					"postal_code": "20592"
+				},
+				{
+					"town": "Laggala Pallegama",
+					"postal_code": "21520"
+				},
+				{
+					"town": "Laxapana",
+					"postal_code": "22034"
+				},
+				{
+					"town": "Leemagahakotuwa",
+					"postal_code": "20482"
+				},
+				{
+					"town": "Leliambe",
+					"postal_code": "21008"
+				},
+				{
+					"town": "Lenadora",
+					"postal_code": "21094"
+				},
+				{
+					"town": "Lhala Kobbekaduwa",
+					"postal_code": "20042"
+				},
+				{
+					"town": "Lindula",
+					"postal_code": "22090"
+				},
+				{
+					"town": "Lllagolla",
+					"postal_code": "20724"
+				},
+				{
+					"town": "Lllukkumbura",
+					"postal_code": "21406"
+				},
+				{
+					"town": "Lunuketiya Maditta",
+					"postal_code": "20172"
+				},
+				{
+					"town": "Madawala Bazaar",
+					"postal_code": "20260"
+				},
+				{
+					"town": "Madawala Ulpotha",
+					"postal_code": "21074"
+				},
+				{
+					"town": "Madipola",
+					"postal_code": "21156"
+				},
+				{
+					"town": "Madugalla",
+					"postal_code": "20938"
+				},
+				{
+					"town": "Madulkele",
+					"postal_code": "20840"
+				},
+				{
+					"town": "Madulla",
+					"postal_code": "22256"
+				},
+				{
+					"town": "Mahadoraliyadda",
+					"postal_code": "20945"
+				},
+				{
+					"town": "Mahamedagama",
+					"postal_code": "20216"
+				},
+				{
+					"town": "Mahawela",
+					"postal_code": "21140"
+				},
+				{
+					"town": "Mailapitiya",
+					"postal_code": "20702"
+				},
+				{
+					"town": "Makkanigama",
+					"postal_code": "20828"
+				},
+				{
+					"town": "Makuldeniya",
+					"postal_code": "20921"
+				},
+				{
+					"town": "Maldeniya",
+					"postal_code": "22021"
+				},
+				{
+					"town": "Mananwatta",
+					"postal_code": "21144"
+				},
+				{
+					"town": "Mandaram Nuwara",
+					"postal_code": "20744"
+				},
+				{
+					"town": "Mapakanda",
+					"postal_code": "20662"
+				},
+				{
+					"town": "Maraka",
+					"postal_code": "21554"
+				},
+				{
+					"town": "Marassana",
+					"postal_code": "20210"
+				},
+				{
+					"town": "Marymount Colony",
+					"postal_code": "20714"
+				},
+				{
+					"town": "Maskeliya",
+					"postal_code": "22070"
+				},
+				{
+					"town": "Maswela",
+					"postal_code": "20566"
+				},
+				{
+					"town": "Matale",
+					"postal_code": "21000"
+				},
+				{
+					"town": "Maturata",
+					"postal_code": "20748"
+				},
+				{
+					"town": "Mawatura",
+					"postal_code": "20564"
+				},
+				{
+					"town": "Medamahanuwara",
+					"postal_code": "20940"
+				},
+				{
+					"town": "Medawala Harispattuwa",
+					"postal_code": "20120"
+				},
+				{
+					"town": "Meetalawa",
+					"postal_code": "20512"
+				},
+				{
+					"town": "Megoda Kalugamuwa",
+					"postal_code": "20409"
+				},
+				{
+					"town": "Melipitiya",
+					"postal_code": "21055"
+				},
+				{
+					"town": "Menikdiwela",
+					"postal_code": "20470"
+				},
+				{
+					"town": "Menikhinna",
+					"postal_code": "20170"
+				},
+				{
+					"town": "Metihakka",
+					"postal_code": "21062"
+				},
+				{
+					"town": "Millawana",
+					"postal_code": "21154"
+				},
+				{
+					"town": "Mimure",
+					"postal_code": "20923"
+				},
+				{
+					"town": "Minigamuwa",
+					"postal_code": "20109"
+				},
+				{
+					"town": "Minipe",
+					"postal_code": "20983"
+				},
+				{
+					"town": "Mipanawa",
+					"postal_code": "22254"
+				},
+				{
+					"town": "Mipilimana",
+					"postal_code": "22214"
+				},
+				{
+					"town": "Morahenagama",
+					"postal_code": "22036"
+				},
+				{
+					"town": "Munwatta",
+					"postal_code": "20752"
+				},
+				{
+					"town": "Murutalawa",
+					"postal_code": "20232"
+				},
+				{
+					"town": "Muruthagahamulla",
+					"postal_code": "20526"
+				},
+				{
+					"town": "Muwandeniya",
+					"postal_code": "21044"
+				},
+				{
+					"town": "Nalanda",
+					"postal_code": "21082"
+				},
+				{
+					"town": "Nanuoya",
+					"postal_code": "22150"
+				},
+				{
+					"town": "Naranpanawa",
+					"postal_code": "20176"
+				},
+				{
+					"town": "Nattarampotha",
+					"postal_code": "20194"
+				},
+				{
+					"town": "Naula",
+					"postal_code": "21090"
+				},
+				{
+					"town": "Nawalapitiya",
+					"postal_code": "20650"
+				},
+				{
+					"town": "Nawathispane",
+					"postal_code": "20670"
+				},
+				{
+					"town": "Nayapana Janapadaya",
+					"postal_code": "20568"
+				},
+				{
+					"town": "Nildandahinna",
+					"postal_code": "22280"
+				},
+				{
+					"town": "Nillambe",
+					"postal_code": "20418"
+				},
+				{
+					"town": "Nissanka Uyana",
+					"postal_code": "22075"
+				},
+				{
+					"town": "Norwood",
+					"postal_code": "22058"
+				},
+				{
+					"town": "Nugagolla",
+					"postal_code": "21534"
+				},
+				{
+					"town": "Nugaliyadda",
+					"postal_code": "20204"
+				},
+				{
+					"town": "Nugawela",
+					"postal_code": "20072"
+				},
+				{
+					"town": "Nuwara Eliya",
+					"postal_code": "22200"
+				},
+				{
+					"town": "Opalgala",
+					"postal_code": "21076"
+				},
+				{
+					"town": "Ovilikanda",
+					"postal_code": "21020"
+				},
+				{
+					"town": "Padiyapelella",
+					"postal_code": "20750"
+				},
+				{
+					"town": "Palapathwela",
+					"postal_code": "21070"
+				},
+				{
+					"town": "Pallebowala",
+					"postal_code": "20734"
+				},
+				{
+					"town": "Pallekotuwa",
+					"postal_code": "20084"
+				},
+				{
+					"town": "Pallepola",
+					"postal_code": "21152"
+				},
+				{
+					"town": "Panvila",
+					"postal_code": "20830"
+				},
+				{
+					"town": "Panwilatenna",
+					"postal_code": "20544"
+				},
+				{
+					"town": "Paradeka",
+					"postal_code": "20578"
+				},
+				{
+					"town": "Pasbage",
+					"postal_code": "20654"
+				},
+				{
+					"town": "Patana",
+					"postal_code": "22012"
+				},
+				{
+					"town": "Pattitalawa",
+					"postal_code": "20511"
+				},
+				{
+					"town": "Pattiya Watta",
+					"postal_code": "20118"
+				},
+				{
+					"town": "Peradeniya",
+					"postal_code": "20400"
+				},
+				{
+					"town": "Perakanatta",
+					"postal_code": "21532"
+				},
+				{
+					"town": "Pilawala",
+					"postal_code": "20196"
+				},
+				{
+					"town": "Pilimatalawa",
+					"postal_code": "20450"
+				},
+				{
+					"town": "Pitawala",
+					"postal_code": "20682"
+				},
+				{
+					"town": "Poholiyadda",
+					"postal_code": "20106"
+				},
+				{
+					"town": "Polgolla",
+					"postal_code": "20250"
+				},
+				{
+					"town": "Pubbiliya",
+					"postal_code": "21502"
+				},
+				{
+					"town": "Pujapitiya",
+					"postal_code": "20112"
+				},
+				{
+					"town": "Pundaluoya",
+					"postal_code": "22120"
+				},
+				{
+					"town": "Pupuressa",
+					"postal_code": "20546"
+				},
+				{
+					"town": "Pussellawa",
+					"postal_code": "20580"
+				},
+				{
+					"town": "Putuhapuwa",
+					"postal_code": "20906"
+				},
+				{
+					"town": "Rajawella",
+					"postal_code": "20180"
+				},
+				{
+					"town": "Ramboda",
+					"postal_code": "20590"
+				},
+				{
+					"town": "Rambukpitiya",
+					"postal_code": "20676"
+				},
+				{
+					"town": "Rambukwella",
+					"postal_code": "20128"
+				},
+				{
+					"town": "Ranamuregama",
+					"postal_code": "21524"
+				},
+				{
+					"town": "Rangala",
+					"postal_code": "20922"
+				},
+				{
+					"town": "Rantembe",
+					"postal_code": "20990"
+				},
+				{
+					"town": "Rathukohodigala",
+					"postal_code": "20818"
+				},
+				{
+					"town": "Rattota",
+					"postal_code": "21400"
+				},
+				{
+					"town": "Rikillagaskada",
+					"postal_code": "20730"
+				},
+				{
+					"town": "Rozella",
+					"postal_code": "22008"
+				},
+				{
+					"town": "Rupaha",
+					"postal_code": "22245"
+				},
+				{
+					"town": "Ruwaneliya",
+					"postal_code": "22212"
+				},
+				{
+					"town": "Sangarajapura",
+					"postal_code": "20044"
+				},
+				{
+					"town": "Santhipura",
+					"postal_code": "22202"
+				},
+				{
+					"town": "Selagama",
+					"postal_code": "21058"
+				},
+				{
+					"town": "Senarathwela",
+					"postal_code": "20904"
+				},
+				{
+					"town": "Sigiriya",
+					"postal_code": "21120"
+				},
+				{
+					"town": "Talagoda Junction",
+					"postal_code": "21506"
+				},
+				{
+					"town": "Talakiriyagama",
+					"postal_code": "21116"
+				},
+				{
+					"town": "Talatuoya",
+					"postal_code": "20200"
+				},
+				{
+					"town": "Talawakele",
+					"postal_code": "22100"
+				},
+				{
+					"town": "Tawalantenna",
+					"postal_code": "20838"
+				},
+				{
+					"town": "Teldeniya",
+					"postal_code": "20900"
+				},
+				{
+					"town": "Tennekumbura",
+					"postal_code": "20166"
+				},
+				{
+					"town": "Teripeha",
+					"postal_code": "22287"
+				},
+				{
+					"town": "Uda Peradeniya",
+					"postal_code": "20404"
+				},
+				{
+					"town": "Udahentenna",
+					"postal_code": "20506"
+				},
+				{
+					"town": "Udahingulwala",
+					"postal_code": "20094"
+				},
+				{
+					"town": "Udamadura",
+					"postal_code": "22285"
+				},
+				{
+					"town": "Udapussallawa",
+					"postal_code": "22250"
+				},
+				{
+					"town": "Udasgiriya",
+					"postal_code": "21051"
+				},
+				{
+					"town": "Udatalawinna",
+					"postal_code": "20802"
+				},
+				{
+					"town": "Udatenna",
+					"postal_code": "21006"
+				},
+				{
+					"town": "Udawatta",
+					"postal_code": "20722"
+				},
+				{
+					"town": "Udispattuwa",
+					"postal_code": "20916"
+				},
+				{
+					"town": "Ududumbara",
+					"postal_code": "20950"
+				},
+				{
+					"town": "Uduwa",
+					"postal_code": "20052"
+				},
+				{
+					"town": "Uduwahinna",
+					"postal_code": "20934"
+				},
+				{
+					"town": "Uduwela",
+					"postal_code": "20164"
+				},
+				{
+					"town": "Ukuwela",
+					"postal_code": "21300"
+				},
+				{
+					"town": "Ulapane",
+					"postal_code": "20562"
+				},
+				{
+					"town": "Ulpothagama",
+					"postal_code": "20965"
+				},
+				{
+					"town": "Unuwinna",
+					"postal_code": "20708"
+				},
+				{
+					"town": "Velamboda",
+					"postal_code": "20640"
+				},
+				{
+					"town": "Wahacotte",
+					"postal_code": "21160"
+				},
+				{
+					"town": "Walapane",
+					"postal_code": "22270"
+				},
+				{
+					"town": "Walawela",
+					"postal_code": "21048"
+				},
+				{
+					"town": "Watagoda",
+					"postal_code": "22110"
+				},
+				{
+					"town": "Watagoda Harispattuwa",
+					"postal_code": "20134"
+				},
+				{
+					"town": "Watawala",
+					"postal_code": "22010"
+				},
+				{
+					"town": "Wattappola",
+					"postal_code": "20454"
+				},
+				{
+					"town": "Wattegama",
+					"postal_code": "20810"
+				},
+				{
+					"town": "Wehigala",
+					"postal_code": "21009"
+				},
+				{
+					"town": "Welangahawatte",
+					"postal_code": "21408"
+				},
+				{
+					"town": "Weligalla",
+					"postal_code": "20610"
+				},
+				{
+					"town": "Weligampola",
+					"postal_code": "20666"
+				},
+				{
+					"town": "Wendaruwa",
+					"postal_code": "20914"
+				},
+				{
+					"town": "Weragantota",
+					"postal_code": "20982"
+				},
+				{
+					"town": "Werapitya",
+					"postal_code": "20908"
+				},
+				{
+					"town": "Werellagama",
+					"postal_code": "20080"
+				},
+				{
+					"town": "Wettawa",
+					"postal_code": "20108"
+				},
+				{
+					"town": "Wewalawewa",
+					"postal_code": "21114"
+				},
+				{
+					"town": "Widulipura",
+					"postal_code": "22032"
+				},
+				{
+					"town": "Wijebahukanda",
+					"postal_code": "22018"
+				},
+				{
+					"town": "Wilanagama",
+					"postal_code": "20142"
+				},
+				{
+					"town": "Wilgamuwa",
+					"postal_code": "21530"
+				},
+				{
+					"town": "Yahalatenna",
+					"postal_code": "20234"
+				},
+				{
+					"town": "Yatawatta",
+					"postal_code": "21056"
+				},
+				{
+					"town": "Yatihalagala",
+					"postal_code": "20034"
+				}
+			]
+		},
+		{
+			"province": "Eastern",
+			"towns": [
+				{
+					"town": "Addalaichenai",
+					"postal_code": "32350"
+				},
+				{
+					"town": "Agbopura",
+					"postal_code": "31304"
+				},
+				{
+					"town": "Akkaraipattu",
+					"postal_code": "32400"
+				},
+				{
+					"town": "Ampara",
+					"postal_code": "32000"
+				},
+				{
+					"town": "Ampilanthurai",
+					"postal_code": "30162"
+				},
+				{
+					"town": "Araipattai",
+					"postal_code": "30150"
+				},
+				{
+					"town": "Ayithiyamalai",
+					"postal_code": "30362"
+				},
+				{
+					"town": "Bakiella",
+					"postal_code": "30206"
+				},
+				{
+					"town": "Bakmitiyawa",
+					"postal_code": "32024"
+				},
+				{
+					"town": "Batticaloa",
+					"postal_code": "30000"
+				},
+				{
+					"town": "Buckmigama",
+					"postal_code": "31028"
+				},
+				{
+					"town": "Central Camp",
+					"postal_code": "32050"
+				},
+				{
+					"town": "Cheddipalayam",
+					"postal_code": "30194"
+				},
+				{
+					"town": "Chenkaladi",
+					"postal_code": "30350"
+				},
+				{
+					"town": "Chinabay",
+					"postal_code": "31050"
+				},
+				{
+					"town": "Dadayamtalawa",
+					"postal_code": "32046"
+				},
+				{
+					"town": "Damana",
+					"postal_code": "32014"
+				},
+				{
+					"town": "Damanewela",
+					"postal_code": "32126"
+				},
+				{
+					"town": "Deegawapiya",
+					"postal_code": "32006"
+				},
+				{
+					"town": "Dehiattakandiya",
+					"postal_code": "32150"
+				},
+				{
+					"town": "Dehiwatte",
+					"postal_code": "31226"
+				},
+				{
+					"town": "Devalahinda",
+					"postal_code": "32038"
+				},
+				{
+					"town": "Digamadulla Weeragoda",
+					"postal_code": "32008"
+				},
+				{
+					"town": "Dorakumbura",
+					"postal_code": "32104"
+				},
+				{
+					"town": "Echchilampattai",
+					"postal_code": "31236"
+				},
+				{
+					"town": "Eravur",
+					"postal_code": "30300"
+				},
+				{
+					"town": "Galapitagala",
+					"postal_code": "32066"
+				},
+				{
+					"town": "Galmetiyawa",
+					"postal_code": "31318"
+				},
+				{
+					"town": "Gomarankadawala",
+					"postal_code": "31026"
+				},
+				{
+					"town": "Gonagolla",
+					"postal_code": "32064"
+				},
+				{
+					"town": "Hingurana",
+					"postal_code": "32010"
+				},
+				{
+					"town": "Hulannuge",
+					"postal_code": "32514"
+				},
+				{
+					"town": "Kaddaiparichchan",
+					"postal_code": "31212"
+				},
+				{
+					"town": "Kalkudah",
+					"postal_code": "30410"
+				},
+				{
+					"town": "Kallar",
+					"postal_code": "30250"
+				},
+				{
+					"town": "Kalmunai",
+					"postal_code": "32300"
+				},
+				{
+					"town": "Kaluwanchikudi",
+					"postal_code": "30200"
+				},
+				{
+					"town": "Kaluwankemy",
+					"postal_code": "30372"
+				},
+				{
+					"town": "Kannakipuram",
+					"postal_code": "32405"
+				},
+				{
+					"town": "Kannankudah",
+					"postal_code": "30016"
+				},
+				{
+					"town": "Kanniya",
+					"postal_code": "31032"
+				},
+				{
+					"town": "Kantalai",
+					"postal_code": "31300"
+				},
+				{
+					"town": "Kantalai Sugar Factory",
+					"postal_code": "31306"
+				},
+				{
+					"town": "Karadiyanaru",
+					"postal_code": "30354"
+				},
+				{
+					"town": "Karativu",
+					"postal_code": "32250"
+				},
+				{
+					"town": "Kathiraveli",
+					"postal_code": "30456"
+				},
+				{
+					"town": "Kattankudi",
+					"postal_code": "30100"
+				},
+				{
+					"town": "Kekirihena",
+					"postal_code": "32074"
+				},
+				{
+					"town": "Kiliveddy",
+					"postal_code": "31220"
+				},
+				{
+					"town": "Kinniya",
+					"postal_code": "31100"
+				},
+				{
+					"town": "Kiran",
+					"postal_code": "30394"
+				},
+				{
+					"town": "Kirankulam",
+					"postal_code": "30159"
+				},
+				{
+					"town": "Koddaikallar",
+					"postal_code": "30249"
+				},
+				{
+					"town": "Kokkaddichcholai",
+					"postal_code": "30160"
+				},
+				{
+					"town": "Koknahara",
+					"postal_code": "32035"
+				},
+				{
+					"town": "Kolamanthalawa",
+					"postal_code": "32102"
+				},
+				{
+					"town": "Komari",
+					"postal_code": "32418"
+				},
+				{
+					"town": "Kuchchaveli",
+					"postal_code": "31014"
+				},
+				{
+					"town": "Kumburupiddy",
+					"postal_code": "31012"
+				},
+				{
+					"town": "Kurinchakemy",
+					"postal_code": "31112"
+				},
+				{
+					"town": "Kurukkalmadam",
+					"postal_code": "30192"
+				},
+				{
+					"town": "Lahugala",
+					"postal_code": "32512"
+				},
+				{
+					"town": "Lankapatuna",
+					"postal_code": "31234"
+				},
+				{
+					"town": "Lmkkamam",
+					"postal_code": "32450"
+				},
+				{
+					"town": "Madawalalanda",
+					"postal_code": "32016"
+				},
+				{
+					"town": "Mahadivulwewa",
+					"postal_code": "31036"
+				},
+				{
+					"town": "Mahanagapura",
+					"postal_code": "32018"
+				},
+				{
+					"town": "Mahaoya",
+					"postal_code": "32070"
+				},
+				{
+					"town": "Maharugiramam",
+					"postal_code": "31106"
+				},
+				{
+					"town": "Mallikativu",
+					"postal_code": "31224"
+				},
+				{
+					"town": "Malwatta",
+					"postal_code": "32198"
+				},
+				{
+					"town": "Mandur",
+					"postal_code": "30220"
+				},
+				{
+					"town": "Mangalagama",
+					"postal_code": "32069"
+				},
+				{
+					"town": "Mankemi",
+					"postal_code": "30442"
+				},
+				{
+					"town": "Marathamune",
+					"postal_code": "32314"
+				},
+				{
+					"town": "Mawadichenai",
+					"postal_code": "31238"
+				},
+				{
+					"town": "Mawanagama",
+					"postal_code": "32158"
+				},
+				{
+					"town": "Miravodai",
+					"postal_code": "30426"
+				},
+				{
+					"town": "Moragahapallama",
+					"postal_code": "32012"
+				},
+				{
+					"town": "Mullipothana",
+					"postal_code": "31312"
+				},
+				{
+					"town": "Murakottanchanai",
+					"postal_code": "30392"
+				},
+				{
+					"town": "Mutur",
+					"postal_code": "31200"
+				},
+				{
+					"town": "Namaloya",
+					"postal_code": "32037"
+				},
+				{
+					"town": "Navagirinagar",
+					"postal_code": "30238"
+				},
+				{
+					"town": "Navatkadu",
+					"postal_code": "30018"
+				},
+				{
+					"town": "Navithanveli",
+					"postal_code": "32308"
+				},
+				{
+					"town": "Nawamedagama",
+					"postal_code": "32120"
+				},
+				{
+					"town": "Neelapola",
+					"postal_code": "31228"
+				},
+				{
+					"town": "Nilaveli",
+					"postal_code": "31010"
+				},
+				{
+					"town": "Nintavur",
+					"postal_code": "32340"
+				},
+				{
+					"town": "Oddamavadi",
+					"postal_code": "30420"
+				},
+				{
+					"town": "Oluvil",
+					"postal_code": "32360"
+				},
+				{
+					"town": "Padiyatalawa",
+					"postal_code": "32100"
+				},
+				{
+					"town": "Pahalalanda",
+					"postal_code": "32034"
+				},
+				{
+					"town": "Palamunai",
+					"postal_code": "32354"
+				},
+				{
+					"town": "Panama",
+					"postal_code": "32508"
+				},
+				{
+					"town": "Panichankemi",
+					"postal_code": "30444"
+				},
+				{
+					"town": "Pankudavely",
+					"postal_code": "30352"
+				},
+				{
+					"town": "Pankulam",
+					"postal_code": "31034"
+				},
+				{
+					"town": "Pannalagama",
+					"postal_code": "32022"
+				},
+				{
+					"town": "Paragahakele",
+					"postal_code": "32031"
+				},
+				{
+					"town": "Periyaneelavanai",
+					"postal_code": "32316"
+				},
+				{
+					"town": "Periyaporativu",
+					"postal_code": "30230"
+				},
+				{
+					"town": "Periyapullumalai",
+					"postal_code": "30358"
+				},
+				{
+					"town": "Pillaiyaradi",
+					"postal_code": "30022"
+				},
+				{
+					"town": "Polwaga Janapadaya",
+					"postal_code": "32032"
+				},
+				{
+					"town": "Pottuvil",
+					"postal_code": "32500"
+				},
+				{
+					"town": "Punanai",
+					"postal_code": "30428"
+				},
+				{
+					"town": "Puthukudiyiruppu",
+					"postal_code": "30158"
+				},
+				{
+					"town": "Rajagalatenna",
+					"postal_code": "32068"
+				},
+				{
+					"town": "Rottawewa",
+					"postal_code": "31038"
+				},
+				{
+					"town": "Sainthamaruthu",
+					"postal_code": "32280"
+				},
+				{
+					"town": "Samanthurai",
+					"postal_code": "32200"
+				},
+				{
+					"town": "Sampaltivu",
+					"postal_code": "31006"
+				},
+				{
+					"town": "Sampur",
+					"postal_code": "31216"
+				},
+				{
+					"town": "Serankada",
+					"postal_code": "32101"
+				},
+				{
+					"town": "Serunuwara",
+					"postal_code": "31232"
+				},
+				{
+					"town": "Seruwila",
+					"postal_code": "31260"
+				},
+				{
+					"town": "Sirajnagar",
+					"postal_code": "31314"
+				},
+				{
+					"town": "Siripura",
+					"postal_code": "32155"
+				},
+				{
+					"town": "Siyambalawewa",
+					"postal_code": "32048"
+				},
+				{
+					"town": "Somapura",
+					"postal_code": "31222"
+				},
+				{
+					"town": "Tampalakamam",
+					"postal_code": "31046"
+				},
+				{
+					"town": "Tempitiya",
+					"postal_code": "32072"
+				},
+				{
+					"town": "Thambiluvil",
+					"postal_code": "32415"
+				},
+				{
+					"town": "Thannamunai",
+					"postal_code": "30024"
+				},
+				{
+					"town": "Thettativu",
+					"postal_code": "30196"
+				},
+				{
+					"town": "Thikkodai",
+					"postal_code": "30236"
+				},
+				{
+					"town": "Thirupalugamam",
+					"postal_code": "30234"
+				},
+				{
+					"town": "Thuraineelavanai",
+					"postal_code": "30254"
+				},
+				{
+					"town": "Tiriyayi",
+					"postal_code": "31016"
+				},
+				{
+					"town": "Tirukovil",
+					"postal_code": "32420"
+				},
+				{
+					"town": "Toppur",
+					"postal_code": "31250"
+				},
+				{
+					"town": "Trincomalee",
+					"postal_code": "31000"
+				},
+				{
+					"town": "Uhana",
+					"postal_code": "32060"
+				},
+				{
+					"town": "Unnichchai",
+					"postal_code": "30364"
+				},
+				{
+					"town": "Vakaneri",
+					"postal_code": "30424"
+				},
+				{
+					"town": "Vakarai",
+					"postal_code": "30450"
+				},
+				{
+					"town": "Valaichenai",
+					"postal_code": "30400"
+				},
+				{
+					"town": "Vantharumoolai",
+					"postal_code": "30376"
+				},
+				{
+					"town": "Vellamanal",
+					"postal_code": "31053"
+				},
+				{
+					"town": "Vellavely",
+					"postal_code": "30204"
+				},
+				{
+					"town": "Wadinagala",
+					"postal_code": "32039"
+				},
+				{
+					"town": "Wanagamuwa",
+					"postal_code": "32454"
+				},
+				{
+					"town": "Wanela",
+					"postal_code": "31308"
+				},
+				{
+					"town": "Werunketagoda",
+					"postal_code": "32062"
+				}
+			]
+		},
+		{
+			"province": "North Central",
+			"towns": [
+				{
+					"town": "Alutwewa",
+					"postal_code": "51014"
+				},
+				{
+					"town": "Andiyagala",
+					"postal_code": "50112"
+				},
+				{
+					"town": "Angamuwa",
+					"postal_code": "50248"
+				},
+				{
+					"town": "Anuradhapura",
+					"postal_code": "50000"
+				},
+				{
+					"town": "Aralaganwila",
+					"postal_code": "51100"
+				},
+				{
+					"town": "Aselapura",
+					"postal_code": "51072"
+				},
+				{
+					"town": "Attanakadawala",
+					"postal_code": "51235"
+				},
+				{
+					"town": "Awukana",
+					"postal_code": "50169"
+				},
+				{
+					"town": "Bakamuna",
+					"postal_code": "51250"
+				},
+				{
+					"town": "Bogahawewa",
+					"postal_code": "50566"
+				},
+				{
+					"town": "Dalukana",
+					"postal_code": "51092"
+				},
+				{
+					"town": "Damminna",
+					"postal_code": "51106"
+				},
+				{
+					"town": "Dematawewa",
+					"postal_code": "50356"
+				},
+				{
+					"town": "Dewagala",
+					"postal_code": "51094"
+				},
+				{
+					"town": "Dimbulagala",
+					"postal_code": "51031"
+				},
+				{
+					"town": "Divulankadawala",
+					"postal_code": "51428"
+				},
+				{
+					"town": "Divuldamana",
+					"postal_code": "51104"
+				},
+				{
+					"town": "Diyabeduma",
+					"postal_code": "51225"
+				},
+				{
+					"town": "Diyasenpura",
+					"postal_code": "51504"
+				},
+				{
+					"town": "Dunumadalawa",
+					"postal_code": "50214"
+				},
+				{
+					"town": "Dutuwewa",
+					"postal_code": "50393"
+				},
+				{
+					"town": "Elahera",
+					"postal_code": "51258"
+				},
+				{
+					"town": "Elayapattuwa",
+					"postal_code": "50014"
+				},
+				{
+					"town": "Ellewewa",
+					"postal_code": "51034"
+				},
+				{
+					"town": "Eppawala",
+					"postal_code": "50260"
+				},
+				{
+					"town": "Etawatunuwewa",
+					"postal_code": "50584"
+				},
+				{
+					"town": "Etaweeragollewa",
+					"postal_code": "50518"
+				},
+				{
+					"town": "Galadivulwewa",
+					"postal_code": "50210"
+				},
+				{
+					"town": "Galamuna",
+					"postal_code": "51416"
+				},
+				{
+					"town": "Galenbindunuwewa",
+					"postal_code": "50390"
+				},
+				{
+					"town": "Galkadawala",
+					"postal_code": "50006"
+				},
+				{
+					"town": "Galkiriyagama",
+					"postal_code": "50120"
+				},
+				{
+					"town": "Galkulama",
+					"postal_code": "50064"
+				},
+				{
+					"town": "Galnewa",
+					"postal_code": "50170"
+				},
+				{
+					"town": "Galoya Junction",
+					"postal_code": "51375"
+				},
+				{
+					"town": "Gambirigaswewa",
+					"postal_code": "50057"
+				},
+				{
+					"town": "Ganewalpola",
+					"postal_code": "50142"
+				},
+				{
+					"town": "Gemunupura",
+					"postal_code": "50224"
+				},
+				{
+					"town": "Getalawa",
+					"postal_code": "50392"
+				},
+				{
+					"town": "Giritale",
+					"postal_code": "51026"
+				},
+				{
+					"town": "Gnanikulama",
+					"postal_code": "50036"
+				},
+				{
+					"town": "Gonahaddenawa",
+					"postal_code": "50554"
+				},
+				{
+					"town": "Habarana",
+					"postal_code": "50150"
+				},
+				{
+					"town": "Halmillawa Dambulla",
+					"postal_code": "50124"
+				},
+				{
+					"town": "Halmillawetiya",
+					"postal_code": "50552"
+				},
+				{
+					"town": "Hansayapalama",
+					"postal_code": "51098"
+				},
+				{
+					"town": "Hidogama",
+					"postal_code": "50044"
+				},
+				{
+					"town": "Hingurakdamana",
+					"postal_code": "51408"
+				},
+				{
+					"town": "Hingurakgoda",
+					"postal_code": "51400"
+				},
+				{
+					"town": "Horawpatana",
+					"postal_code": "50350"
+				},
+				{
+					"town": "Horiwila",
+					"postal_code": "50222"
+				},
+				{
+					"town": "Hurigaswewa",
+					"postal_code": "50176"
+				},
+				{
+					"town": "Hurulunikawewa",
+					"postal_code": "50394"
+				},
+				{
+					"town": "Jayanthipura",
+					"postal_code": "51024"
+				},
+				{
+					"town": "Jayasiripura",
+					"postal_code": "51246"
+				},
+				{
+					"town": "Kagama",
+					"postal_code": "50282"
+				},
+				{
+					"town": "Kahatagasdigiliya",
+					"postal_code": "50320"
+				},
+				{
+					"town": "Kahatagollewa",
+					"postal_code": "50562"
+				},
+				{
+					"town": "Kalakarambewa",
+					"postal_code": "50288"
+				},
+				{
+					"town": "Kalankuttiya",
+					"postal_code": "50174"
+				},
+				{
+					"town": "Kalaoya",
+					"postal_code": "50226"
+				},
+				{
+					"town": "Kalawedi Ulpotha",
+					"postal_code": "50556"
+				},
+				{
+					"town": "Kalingaela",
+					"postal_code": "51002"
+				},
+				{
+					"town": "Kallanchiya",
+					"postal_code": "50454"
+				},
+				{
+					"town": "Kalukele Badanagala",
+					"postal_code": "51037"
+				},
+				{
+					"town": "Kapugallawa",
+					"postal_code": "50370"
+				},
+				{
+					"town": "Karagahawewa",
+					"postal_code": "50232"
+				},
+				{
+					"town": "Kashyapapura",
+					"postal_code": "51032"
+				},
+				{
+					"town": "Katiyawa",
+					"postal_code": "50261"
+				},
+				{
+					"town": "Kawudulla",
+					"postal_code": "51414"
+				},
+				{
+					"town": "Kawuduluwewa Stagell",
+					"postal_code": "51514"
+				},
+				{
+					"town": "Kebithigollewa",
+					"postal_code": "50500"
+				},
+				{
+					"town": "Kekirawa",
+					"postal_code": "50100"
+				},
+				{
+					"town": "Kendewa",
+					"postal_code": "50452"
+				},
+				{
+					"town": "Kiralogama",
+					"postal_code": "50259"
+				},
+				{
+					"town": "Kirigalwewa",
+					"postal_code": "50511"
+				},
+				{
+					"town": "Kitulhitiyawa",
+					"postal_code": "50132"
+				},
+				{
+					"town": "Kottapitiya",
+					"postal_code": "51244"
+				},
+				{
+					"town": "Kumaragama",
+					"postal_code": "51412"
+				},
+				{
+					"town": "Kurundankulama",
+					"postal_code": "50062"
+				},
+				{
+					"town": "Labunoruwa",
+					"postal_code": "50088"
+				},
+				{
+					"town": "Lakshauyana",
+					"postal_code": "51006"
+				},
+				{
+					"town": "Lhala Halmillewa",
+					"postal_code": "50262"
+				},
+				{
+					"town": "Lhalagama",
+					"postal_code": "50304"
+				},
+				{
+					"town": "Lpologama",
+					"postal_code": "50280"
+				},
+				{
+					"town": "Madatugama",
+					"postal_code": "50130"
+				},
+				{
+					"town": "Maduruoya",
+					"postal_code": "51108"
+				},
+				{
+					"town": "Maha Ambagaswewa",
+					"postal_code": "51518"
+				},
+				{
+					"town": "Maha Elagamuwa",
+					"postal_code": "50126"
+				},
+				{
+					"town": "Mahabulankulama",
+					"postal_code": "50196"
+				},
+				{
+					"town": "Mahailluppallama",
+					"postal_code": "50270"
+				},
+				{
+					"town": "Mahakanadarawa",
+					"postal_code": "50306"
+				},
+				{
+					"town": "Mahapothana",
+					"postal_code": "50327"
+				},
+				{
+					"town": "Mahasenpura",
+					"postal_code": "50574"
+				},
+				{
+					"town": "Mahatalakolawewa",
+					"postal_code": "51506"
+				},
+				{
+					"town": "Mahawela Sinhapura",
+					"postal_code": "51076"
+				},
+				{
+					"town": "Mahawilachchiya",
+					"postal_code": "50022"
+				},
+				{
+					"town": "Mailagaswewa",
+					"postal_code": "50384"
+				},
+				{
+					"town": "Malwanagama",
+					"postal_code": "50236"
+				},
+				{
+					"town": "Mampitiya",
+					"postal_code": "51090"
+				},
+				{
+					"town": "Maneruwa",
+					"postal_code": "50182"
+				},
+				{
+					"town": "Maradankadawala",
+					"postal_code": "50080"
+				},
+				{
+					"town": "Maradankalla",
+					"postal_code": "50308"
+				},
+				{
+					"town": "Medawachchiya",
+					"postal_code": "50500"
+				},
+				{
+					"town": "Medirigiriya",
+					"postal_code": "51500"
+				},
+				{
+					"town": "Meegaswewa",
+					"postal_code": "51508"
+				},
+				{
+					"town": "Megodawewa",
+					"postal_code": "50334"
+				},
+				{
+					"town": "Mihintale",
+					"postal_code": "50300"
+				},
+				{
+					"town": "Minneriya",
+					"postal_code": "51410"
+				},
+				{
+					"town": "Morakewa",
+					"postal_code": "50349"
+				},
+				{
+					"town": "Mulkiriyawa",
+					"postal_code": "50324"
+				},
+				{
+					"town": "Muriyakadawala",
+					"postal_code": "50344"
+				},
+				{
+					"town": "Mutugala",
+					"postal_code": "51064"
+				},
+				{
+					"town": "Nachchaduwa",
+					"postal_code": "50046"
+				},
+				{
+					"town": "Namalpura",
+					"postal_code": "50339"
+				},
+				{
+					"town": "Nawasenapura",
+					"postal_code": "51066"
+				},
+				{
+					"town": "Negampaha",
+					"postal_code": "50180"
+				},
+				{
+					"town": "Nelumwewa",
+					"postal_code": "51096"
+				},
+				{
+					"town": "Nochchiyagama",
+					"postal_code": "50200"
+				},
+				{
+					"town": "Nuwaragala",
+					"postal_code": "51039"
+				},
+				{
+					"town": "Onegama",
+					"postal_code": "51004"
+				},
+				{
+					"town": "Orubendi Siyambalawa",
+					"postal_code": "51256"
+				},
+				{
+					"town": "Padavi Maithripura",
+					"postal_code": "50572"
+				},
+				{
+					"town": "Padavi Parakramapura",
+					"postal_code": "50582"
+				},
+				{
+					"town": "Padavi Sripura",
+					"postal_code": "50587"
+				},
+				{
+					"town": "Padavi Sritissapura",
+					"postal_code": "50588"
+				},
+				{
+					"town": "Padaviya",
+					"postal_code": "50570"
+				},
+				{
+					"town": "Padikaramaduwa",
+					"postal_code": "50338"
+				},
+				{
+					"town": "Pahala Halmillewa",
+					"postal_code": "50206"
+				},
+				{
+					"town": "Pahala Maragahawe",
+					"postal_code": "50220"
+				},
+				{
+					"town": "Pahalagama",
+					"postal_code": "50244"
+				},
+				{
+					"town": "Palagala",
+					"postal_code": "50111"
+				},
+				{
+					"town": "Palugasdamana",
+					"postal_code": "51046"
+				},
+				{
+					"town": "Palugaswewa",
+					"postal_code": "50144"
+				},
+				{
+					"town": "Pandukabayapura",
+					"postal_code": "50448"
+				},
+				{
+					"town": "Pandulagama",
+					"postal_code": "50029"
+				},
+				{
+					"town": "Parakramasamudraya",
+					"postal_code": "51016"
+				},
+				{
+					"town": "Parakumpura",
+					"postal_code": "50326"
+				},
+				{
+					"town": "Parangiyawadiya",
+					"postal_code": "50354"
+				},
+				{
+					"town": "Parasangahawewa",
+					"postal_code": "50055"
+				},
+				{
+					"town": "Pelatiyawa",
+					"postal_code": "51033"
+				},
+				{
+					"town": "Pemaduwa",
+					"postal_code": "50020"
+				},
+				{
+					"town": "Perimiyankulama",
+					"postal_code": "50004"
+				},
+				{
+					"town": "Pihimbiyagolewa",
+					"postal_code": "50512"
+				},
+				{
+					"town": "Pimburattewa",
+					"postal_code": "51102"
+				},
+				{
+					"town": "Polonnaruwa",
+					"postal_code": "51000"
+				},
+				{
+					"town": "Pubbogama",
+					"postal_code": "50122"
+				},
+				{
+					"town": "Pulastigama",
+					"postal_code": "51050"
+				},
+				{
+					"town": "Pulmoddai",
+					"postal_code": "50567"
+				},
+				{
+					"town": "Punewa",
+					"postal_code": "50506"
+				},
+				{
+					"town": "Rajanganaya",
+					"postal_code": "50246"
+				},
+				{
+					"town": "Rambewa",
+					"postal_code": "50450"
+				},
+				{
+					"town": "Rampathwila",
+					"postal_code": "50386"
+				},
+				{
+					"town": "Ranorawa",
+					"postal_code": "50212"
+				},
+				{
+					"town": "Rathmalgahawewa",
+					"postal_code": "50514"
+				},
+				{
+					"town": "Saliyapura",
+					"postal_code": "50008"
+				},
+				{
+					"town": "Seeppukulama",
+					"postal_code": "50380"
+				},
+				{
+					"town": "Senapura",
+					"postal_code": "50284"
+				},
+				{
+					"town": "Sevanapitiya",
+					"postal_code": "51062"
+				},
+				{
+					"town": "Sinhagama",
+					"postal_code": "51378"
+				},
+				{
+					"town": "Sivalakulama",
+					"postal_code": "50068"
+				},
+				{
+					"town": "Siyambalewa",
+					"postal_code": "50184"
+				},
+				{
+					"town": "Sravasthipura",
+					"postal_code": "50042"
+				},
+				{
+					"town": "Sungavila",
+					"postal_code": "51052"
+				},
+				{
+					"town": "Talawa",
+					"postal_code": "50230"
+				},
+				{
+					"town": "Talpotha",
+					"postal_code": "51044"
+				},
+				{
+					"town": "Tamankaduwa",
+					"postal_code": "51089"
+				},
+				{
+					"town": "Tambala",
+					"postal_code": "51049"
+				},
+				{
+					"town": "Tambuttegama",
+					"postal_code": "50240"
+				},
+				{
+					"town": "Tammennawa",
+					"postal_code": "50104"
+				},
+				{
+					"town": "Tantirimale",
+					"postal_code": "50016"
+				},
+				{
+					"town": "Telhiriyawa",
+					"postal_code": "50242"
+				},
+				{
+					"town": "Tirappane",
+					"postal_code": "50072"
+				},
+				{
+					"town": "Tittagonewa",
+					"postal_code": "50558"
+				},
+				{
+					"town": "Udunuwara Colony",
+					"postal_code": "50207"
+				},
+				{
+					"town": "Unagalavehera",
+					"postal_code": "51008"
+				},
+				{
+					"town": "Upuldeniya",
+					"postal_code": "50382"
+				},
+				{
+					"town": "Uttimaduwa",
+					"postal_code": "50067"
+				},
+				{
+					"town": "Viharapalugama",
+					"postal_code": "50012"
+				},
+				{
+					"town": "Vijithapura",
+					"postal_code": "50110"
+				},
+				{
+					"town": "Wahalkada",
+					"postal_code": "50564"
+				},
+				{
+					"town": "Wahamalgollewa",
+					"postal_code": "50492"
+				},
+				{
+					"town": "Walagambahuwa",
+					"postal_code": "50086"
+				},
+				{
+					"town": "Walahaviddawewa",
+					"postal_code": "50516"
+				},
+				{
+					"town": "Welikanda",
+					"postal_code": "51070"
+				},
+				{
+					"town": "Welimuwapotana",
+					"postal_code": "50358"
+				},
+				{
+					"town": "Welioya Project",
+					"postal_code": "50586"
+				},
+				{
+					"town": "Wijayabapura",
+					"postal_code": "51042"
+				},
+				{
+					"town": "Yodaela",
+					"postal_code": "51422"
+				},
+				{
+					"town": "Yudaganawa",
+					"postal_code": "51424"
+				}
+			]
+		},
+		{
+			"province": "North Western",
+			"towns": [
+				{
+					"town": "Adippala",
+					"postal_code": "61012"
+				},
+				{
+					"town": "Alahengama",
+					"postal_code": "60416"
+				},
+				{
+					"town": "Alahitiyawa",
+					"postal_code": "60182"
+				},
+				{
+					"town": "Alawatuwala",
+					"postal_code": "60047"
+				},
+				{
+					"town": "Alawwa",
+					"postal_code": "60280"
+				},
+				{
+					"town": "Ambakandawila",
+					"postal_code": "61024"
+				},
+				{
+					"town": "Ambakote",
+					"postal_code": "60036"
+				},
+				{
+					"town": "Ambanpola",
+					"postal_code": "60650"
+				},
+				{
+					"town": "Anamaduwa",
+					"postal_code": "61500"
+				},
+				{
+					"town": "Andigama",
+					"postal_code": "61508"
+				},
+				{
+					"town": "Angunawila",
+					"postal_code": "61264"
+				},
+				{
+					"town": "Anhandiya",
+					"postal_code": "60074"
+				},
+				{
+					"town": "Anukkane",
+					"postal_code": "60214"
+				},
+				{
+					"town": "Aragoda",
+					"postal_code": "60308"
+				},
+				{
+					"town": "Ataragalla",
+					"postal_code": "60706"
+				},
+				{
+					"town": "Attawilluwa",
+					"postal_code": "61328"
+				},
+				{
+					"town": "Awulegama",
+					"postal_code": "60462"
+				},
+				{
+					"town": "Balalla",
+					"postal_code": "60604"
+				},
+				{
+					"town": "Bamunukotuwa",
+					"postal_code": "60347"
+				},
+				{
+					"town": "Bandara Koswatta",
+					"postal_code": "60424"
+				},
+				{
+					"town": "Bangadeniya",
+					"postal_code": "61238"
+				},
+				{
+					"town": "Baranankattuwa",
+					"postal_code": "61262"
+				},
+				{
+					"town": "Battuluoya",
+					"postal_code": "61246"
+				},
+				{
+					"town": "Bingiriya",
+					"postal_code": "60450"
+				},
+				{
+					"town": "Bogamulla",
+					"postal_code": "60107"
+				},
+				{
+					"town": "Bopitiya",
+					"postal_code": "60155"
+				},
+				{
+					"town": "Boraluwewa",
+					"postal_code": "60437"
+				},
+				{
+					"town": "Boyagane",
+					"postal_code": "60027"
+				},
+				{
+					"town": "Bujjampola",
+					"postal_code": "61136"
+				},
+				{
+					"town": "Bujjomuwa",
+					"postal_code": "60291"
+				},
+				{
+					"town": "Buluwala",
+					"postal_code": "60076"
+				},
+				{
+					"town": "Chilaw",
+					"postal_code": "61000"
+				},
+				{
+					"town": "Dambadeniya",
+					"postal_code": "60130"
+				},
+				{
+					"town": "Dankotuwa",
+					"postal_code": "61130"
+				},
+				{
+					"town": "Daraluwa",
+					"postal_code": "60174"
+				},
+				{
+					"town": "Deegalla",
+					"postal_code": "60228"
+				},
+				{
+					"town": "Delwite",
+					"postal_code": "60044"
+				},
+				{
+					"town": "Demataluwa",
+					"postal_code": "60024"
+				},
+				{
+					"town": "Diddeniya",
+					"postal_code": "60544"
+				},
+				{
+					"town": "Digannewa",
+					"postal_code": "60485"
+				},
+				{
+					"town": "Divullegoda",
+					"postal_code": "60472"
+				},
+				{
+					"town": "Dodangaslanda",
+					"postal_code": "60530"
+				},
+				{
+					"town": "Doratiyawa",
+					"postal_code": "60013"
+				},
+				{
+					"town": "Dummalasuriya",
+					"postal_code": "60260"
+				},
+				{
+					"town": "Dunkannawa",
+					"postal_code": "61192"
+				},
+				{
+					"town": "Ehetuwewa",
+					"postal_code": "60716"
+				},
+				{
+					"town": "Elibichchiya",
+					"postal_code": "60156"
+				},
+				{
+					"town": "Eluwankulama",
+					"postal_code": "61308"
+				},
+				{
+					"town": "Embogama",
+					"postal_code": "60718"
+				},
+				{
+					"town": "Ettale",
+					"postal_code": "61343"
+				},
+				{
+					"town": "Etungahakotuwa",
+					"postal_code": "60266"
+				},
+				{
+					"town": "Galgamuwa",
+					"postal_code": "60700"
+				},
+				{
+					"town": "Gallewa",
+					"postal_code": "60712"
+				},
+				{
+					"town": "Galmuruwa",
+					"postal_code": "61233"
+				},
+				{
+					"town": "Girathalana",
+					"postal_code": "60752"
+				},
+				{
+					"town": "Giriulla",
+					"postal_code": "60140"
+				},
+				{
+					"town": "Gokaralla",
+					"postal_code": "60522"
+				},
+				{
+					"town": "Gonawila",
+					"postal_code": "60170"
+				},
+				{
+					"town": "Halmillawewa",
+					"postal_code": "60441"
+				},
+				{
+					"town": "Hengamuwa",
+					"postal_code": "60414"
+				},
+				{
+					"town": "Hettipola",
+					"postal_code": "60430"
+				},
+				{
+					"town": "Hilogama",
+					"postal_code": "60486"
+				},
+				{
+					"town": "Hindagolla",
+					"postal_code": "60034"
+				},
+				{
+					"town": "Hiriyala Lenawa",
+					"postal_code": "60546"
+				},
+				{
+					"town": "Hiruwalpola",
+					"postal_code": "60458"
+				},
+				{
+					"town": "Horambawa",
+					"postal_code": "60181"
+				},
+				{
+					"town": "Hulogedara",
+					"postal_code": "60474"
+				},
+				{
+					"town": "Hulugalla",
+					"postal_code": "60477"
+				},
+				{
+					"town": "Hunupola",
+					"postal_code": "60582"
+				},
+				{
+					"town": "Ihala Gomugomuwa",
+					"postal_code": "60211"
+				},
+				{
+					"town": "Ihala Katugampala",
+					"postal_code": "60135"
+				},
+				{
+					"town": "Ihala Kottaramulla",
+					"postal_code": "61154"
+				},
+				{
+					"town": "Ihala Puliyankulama",
+					"postal_code": "61316"
+				},
+				{
+					"town": "Ilippadeniya",
+					"postal_code": "61018"
+				},
+				{
+					"town": "Indulgodakanda",
+					"postal_code": "60016"
+				},
+				{
+					"town": "Inginimitiya",
+					"postal_code": "61514"
+				},
+				{
+					"town": "Inguruwatta",
+					"postal_code": "60064"
+				},
+				{
+					"town": "Iriyagolla",
+					"postal_code": "60045"
+				},
+				{
+					"town": "Ismailpuram",
+					"postal_code": "61302"
+				},
+				{
+					"town": "Ithanawatta",
+					"postal_code": "60025"
+				},
+				{
+					"town": "Kadigawa",
+					"postal_code": "60492"
+				},
+				{
+					"town": "Kahapathwala",
+					"postal_code": "60062"
+				},
+				{
+					"town": "Kakkapalliya",
+					"postal_code": "61236"
+				},
+				{
+					"town": "Kalladiya",
+					"postal_code": "61534"
+				},
+				{
+					"town": "Kalpitiya",
+					"postal_code": "61360"
+				},
+				{
+					"town": "Kalugamuwa",
+					"postal_code": "60096"
+				},
+				{
+					"town": "Kanadeniyawala",
+					"postal_code": "60054"
+				},
+				{
+					"town": "Kanattewewa",
+					"postal_code": "60422"
+				},
+				{
+					"town": "Kandakuliya",
+					"postal_code": "61358"
+				},
+				{
+					"town": "Karagahagedara",
+					"postal_code": "60106"
+				},
+				{
+					"town": "Karambe",
+					"postal_code": "60602"
+				},
+				{
+					"town": "Karativponparappi",
+					"postal_code": "61307"
+				},
+				{
+					"town": "Karawitagara",
+					"postal_code": "61022"
+				},
+				{
+					"town": "Karuwalagaswewa",
+					"postal_code": "61314"
+				},
+				{
+					"town": "Katuneriya",
+					"postal_code": "61180"
+				},
+				{
+					"town": "Katupota",
+					"postal_code": "60350"
+				},
+				{
+					"town": "Kekunagolla",
+					"postal_code": "60183"
+				},
+				{
+					"town": "Keppitiwalana",
+					"postal_code": "60288"
+				},
+				{
+					"town": "Kimbulwanaoya",
+					"postal_code": "60548"
+				},
+				{
+					"town": "Kirimetiyawa",
+					"postal_code": "60184"
+				},
+				{
+					"town": "Kirimundalama",
+					"postal_code": "61362"
+				},
+				{
+					"town": "Kirindawa",
+					"postal_code": "60212"
+				},
+				{
+					"town": "Kirindigalla",
+					"postal_code": "60502"
+				},
+				{
+					"town": "Kithalawa",
+					"postal_code": "60188"
+				},
+				{
+					"town": "Kobeigane",
+					"postal_code": "60410"
+				},
+				{
+					"town": "Kohilagedara",
+					"postal_code": "60028"
+				},
+				{
+					"town": "Konwewa",
+					"postal_code": "60630"
+				},
+				{
+					"town": "Kosdeniya",
+					"postal_code": "60356"
+				},
+				{
+					"town": "Kosgolla",
+					"postal_code": "60029"
+				},
+				{
+					"town": "Koswatta",
+					"postal_code": "61158"
+				},
+				{
+					"town": "Kotawehera",
+					"postal_code": "60483"
+				},
+				{
+					"town": "Kottantivu",
+					"postal_code": "61252"
+				},
+				{
+					"town": "Kottukachchiya",
+					"postal_code": "61532"
+				},
+				{
+					"town": "Kudagalgamuwa",
+					"postal_code": "60003"
+				},
+				{
+					"town": "Kudakatnoruwa",
+					"postal_code": "60754"
+				},
+				{
+					"town": "Kudawewa",
+					"postal_code": "61226"
+				},
+				{
+					"town": "Kuliyapitiya",
+					"postal_code": "60200"
+				},
+				{
+					"town": "Kumarakattuwa",
+					"postal_code": "61032"
+				},
+				{
+					"town": "Kumbukgeta",
+					"postal_code": "60508"
+				},
+				{
+					"town": "Kumbukwewa",
+					"postal_code": "60506"
+				},
+				{
+					"town": "Kuratihena",
+					"postal_code": "60438"
+				},
+				{
+					"town": "Kurinjanpitiya",
+					"postal_code": "61356"
+				},
+				{
+					"town": "Kuruketiyawa",
+					"postal_code": "61516"
+				},
+				{
+					"town": "Kurunegala",
+					"postal_code": "60000"
+				},
+				{
+					"town": "Labbala",
+					"postal_code": "60162"
+				},
+				{
+					"town": "Lbbagamuwa",
+					"postal_code": "60500"
+				},
+				{
+					"town": "Lhala Kadigamuwa",
+					"postal_code": "60238"
+				},
+				{
+					"town": "Lihiriyagama",
+					"postal_code": "61138"
+				},
+				{
+					"town": "Llukhena",
+					"postal_code": "60232"
+				},
+				{
+					"town": "Lonahettiya",
+					"postal_code": "60108"
+				},
+				{
+					"town": "Lunuwila",
+					"postal_code": "61150"
+				},
+				{
+					"town": "Madahapola",
+					"postal_code": "60552"
+				},
+				{
+					"town": "Madakumburumulla",
+					"postal_code": "60209"
+				},
+				{
+					"town": "Madampe",
+					"postal_code": "61230"
+				},
+				{
+					"town": "Maduragoda",
+					"postal_code": "60532"
+				},
+				{
+					"town": "Madurankuliya",
+					"postal_code": "61270"
+				},
+				{
+					"town": "Maeliya",
+					"postal_code": "60512"
+				},
+				{
+					"town": "Magulagama",
+					"postal_code": "60221"
+				},
+				{
+					"town": "Mahagalkadawala",
+					"postal_code": "60731"
+				},
+				{
+					"town": "Mahagirilla",
+					"postal_code": "60479"
+				},
+				{
+					"town": "Mahakumbukkadawala",
+					"postal_code": "61272"
+				},
+				{
+					"town": "Mahamukalanyaya",
+					"postal_code": "60516"
+				},
+				{
+					"town": "Mahananneriya",
+					"postal_code": "60724"
+				},
+				{
+					"town": "Maharachchimulla",
+					"postal_code": "60286"
+				},
+				{
+					"town": "Mahauswewa",
+					"postal_code": "61512"
+				},
+				{
+					"town": "Mahawewa",
+					"postal_code": "61220"
+				},
+				{
+					"town": "Maho",
+					"postal_code": "60600"
+				},
+				{
+					"town": "Makulewa",
+					"postal_code": "60714"
+				},
+				{
+					"town": "Makulpotha",
+					"postal_code": "60514"
+				},
+				{
+					"town": "Makulwewa",
+					"postal_code": "60578"
+				},
+				{
+					"town": "Malagane",
+					"postal_code": "60404"
+				},
+				{
+					"town": "Mampuri",
+					"postal_code": "61341"
+				},
+				{
+					"town": "Mandapola",
+					"postal_code": "60434"
+				},
+				{
+					"town": "Mangalaeliya",
+					"postal_code": "61266"
+				},
+				{
+					"town": "Marawila",
+					"postal_code": "61210"
+				},
+				{
+					"town": "Maspotha",
+					"postal_code": "60344"
+				},
+				{
+					"town": "Mawathagama",
+					"postal_code": "60060"
+				},
+				{
+					"town": "Medivawa",
+					"postal_code": "60612"
+				},
+				{
+					"town": "Meegalawa",
+					"postal_code": "60750"
+				},
+				{
+					"town": "Meetanwala",
+					"postal_code": "60066"
+				},
+				{
+					"town": "Meewellawa",
+					"postal_code": "60484"
+				},
+				{
+					"town": "Melsiripura",
+					"postal_code": "60540"
+				},
+				{
+					"town": "Metikumbura",
+					"postal_code": "60304"
+				},
+				{
+					"town": "Metiyagane",
+					"postal_code": "60121"
+				},
+				{
+					"town": "Minhettiya",
+					"postal_code": "60004"
+				},
+				{
+					"town": "Minuwangete",
+					"postal_code": "60406"
+				},
+				{
+					"town": "Mirihanagama",
+					"postal_code": "60408"
+				},
+				{
+					"town": "Monnekulama",
+					"postal_code": "60495"
+				},
+				{
+					"town": "Moragane",
+					"postal_code": "60354"
+				},
+				{
+					"town": "Moragollagama",
+					"postal_code": "60640"
+				},
+				{
+					"town": "Morathiha",
+					"postal_code": "60038"
+				},
+				{
+					"town": "Mudalakkuliya",
+					"postal_code": "61506"
+				},
+				{
+					"town": "Mugunuwatawana",
+					"postal_code": "61014"
+				},
+				{
+					"town": "Mukkutoduwawa",
+					"postal_code": "61274"
+				},
+				{
+					"town": "Munamaldeniya",
+					"postal_code": "60218"
+				},
+				{
+					"town": "Mundel",
+					"postal_code": "61250"
+				},
+				{
+					"town": "Muruthenge",
+					"postal_code": "60122"
+				},
+				{
+					"town": "Muttibendiwila",
+					"postal_code": "61195"
+				},
+				{
+					"town": "Nabadewa",
+					"postal_code": "60482"
+				},
+				{
+					"town": "Nagollagama",
+					"postal_code": "60590"
+				},
+				{
+					"town": "Nagollagoda",
+					"postal_code": "60226"
+				},
+				{
+					"town": "Nainamadama",
+					"postal_code": "61120"
+				},
+				{
+					"town": "Nakkawatta",
+					"postal_code": "60186"
+				},
+				{
+					"town": "Nalladarankattuwa",
+					"postal_code": "61244"
+				},
+				{
+					"town": "Narammala",
+					"postal_code": "60100"
+				},
+				{
+					"town": "Narangoda",
+					"postal_code": "60152"
+				},
+				{
+					"town": "Nattandiya",
+					"postal_code": "61190"
+				},
+				{
+					"town": "Nawagattegama",
+					"postal_code": "61520"
+				},
+				{
+					"town": "Nawatalwatta",
+					"postal_code": "60292"
+				},
+				{
+					"town": "Nelliya",
+					"postal_code": "60549"
+				},
+				{
+					"town": "Nikadalupotha",
+					"postal_code": "60580"
+				},
+				{
+					"town": "Nikaweratiya",
+					"postal_code": "60470"
+				},
+				{
+					"town": "Norachcholai",
+					"postal_code": "61342"
+				},
+				{
+					"town": "Padeniya",
+					"postal_code": "60461"
+				},
+				{
+					"town": "Padiwela",
+					"postal_code": "60236"
+				},
+				{
+					"town": "Pahalagiribawa",
+					"postal_code": "60735"
+				},
+				{
+					"town": "Pahamune",
+					"postal_code": "60112"
+				},
+				{
+					"town": "Palaviya",
+					"postal_code": "61280"
+				},
+				{
+					"town": "Pallama",
+					"postal_code": "61040"
+				},
+				{
+					"town": "Palliwasalturai",
+					"postal_code": "61354"
+				},
+				{
+					"town": "Palukadawala",
+					"postal_code": "60704"
+				},
+				{
+					"town": "Panadaragama",
+					"postal_code": "60348"
+				},
+				{
+					"town": "Panagamuwa",
+					"postal_code": "60052"
+				},
+				{
+					"town": "Panaliya",
+					"postal_code": "60312"
+				},
+				{
+					"town": "Panirendawa",
+					"postal_code": "61234"
+				},
+				{
+					"town": "Panliyadda",
+					"postal_code": "60558"
+				},
+				{
+					"town": "Pannala",
+					"postal_code": "60160"
+				},
+				{
+					"town": "Pansiyagama",
+					"postal_code": "60554"
+				},
+				{
+					"town": "Periyakadneluwa",
+					"postal_code": "60518"
+				},
+				{
+					"town": "Pihimbiya Ratmale",
+					"postal_code": "60439"
+				},
+				{
+					"town": "Pihimbuwa",
+					"postal_code": "60053"
+				},
+				{
+					"town": "Pilessa",
+					"postal_code": "60058"
+				},
+				{
+					"town": "Polgahawela",
+					"postal_code": "60300"
+				},
+				{
+					"town": "Polpitigama",
+					"postal_code": "60620"
+				},
+				{
+					"town": "Pothuhera",
+					"postal_code": "60330"
+				},
+				{
+					"town": "Pothuwatawana",
+					"postal_code": "61162"
+				},
+				{
+					"town": "Puswelitenna",
+					"postal_code": "60072"
+				},
+				{
+					"town": "Puttalam",
+					"postal_code": "61300"
+				},
+				{
+					"town": "Puttalam Cement Factory",
+					"postal_code": "61326"
+				},
+				{
+					"town": "Rajakadaluwa",
+					"postal_code": "61242"
+				},
+				{
+					"town": "Ridibendiella",
+					"postal_code": "60606"
+				},
+				{
+					"town": "Ridigama",
+					"postal_code": "60040"
+				},
+				{
+					"town": "Saliya Asokapura",
+					"postal_code": "60736"
+				},
+				{
+					"town": "Saliyawewa Junction",
+					"postal_code": "61324"
+				},
+				{
+					"town": "Sandalankawa",
+					"postal_code": "60176"
+				},
+				{
+					"town": "Serukele",
+					"postal_code": "61042"
+				},
+				{
+					"town": "Sirambiadiya",
+					"postal_code": "61312"
+				},
+				{
+					"town": "Sirisetagama",
+					"postal_code": "60478"
+				},
+				{
+					"town": "Siyambalagashene",
+					"postal_code": "61504"
+				},
+				{
+					"town": "Siyambalangamuwa",
+					"postal_code": "60646"
+				},
+				{
+					"town": "Solepura",
+					"postal_code": "60737"
+				},
+				{
+					"town": "Solewewa",
+					"postal_code": "60738"
+				},
+				{
+					"town": "Sunandapura",
+					"postal_code": "60436"
+				},
+				{
+					"town": "Tabbowa",
+					"postal_code": "61322"
+				},
+				{
+					"town": "Talawattegedara",
+					"postal_code": "60306"
+				},
+				{
+					"town": "Talawila Church",
+					"postal_code": "61344"
+				},
+				{
+					"town": "Tambutta",
+					"postal_code": "60734"
+				},
+				{
+					"town": "Thalahitimulla",
+					"postal_code": "60208"
+				},
+				{
+					"town": "Thalakolawewa",
+					"postal_code": "60624"
+				},
+				{
+					"town": "Thalwita",
+					"postal_code": "60572"
+				},
+				{
+					"town": "Thambagalla",
+					"postal_code": "60584"
+				},
+				{
+					"town": "Tharana Udawela",
+					"postal_code": "60227"
+				},
+				{
+					"town": "Thimbiriyawa",
+					"postal_code": "60476"
+				},
+				{
+					"town": "Tisogama",
+					"postal_code": "60453"
+				},
+				{
+					"town": "Toduwawa",
+					"postal_code": "61224"
+				},
+				{
+					"town": "Torayaya",
+					"postal_code": "60499"
+				},
+				{
+					"town": "Tuttiripitigama",
+					"postal_code": "60426"
+				},
+				{
+					"town": "Udappuwa",
+					"postal_code": "61004"
+				},
+				{
+					"town": "Udubaddawa",
+					"postal_code": "60250"
+				},
+				{
+					"town": "Uhumiya",
+					"postal_code": "60094"
+				},
+				{
+					"town": "Ulpotha Pallekele",
+					"postal_code": "60622"
+				},
+				{
+					"town": "Uridyawa",
+					"postal_code": "61502"
+				},
+				{
+					"town": "Usgala Siyabmalangamuwa",
+					"postal_code": "60732"
+				},
+				{
+					"town": "Vanathawilluwa",
+					"postal_code": "61306"
+				},
+				{
+					"town": "Wadakada",
+					"postal_code": "60318"
+				},
+				{
+					"town": "Wadumunnegedara",
+					"postal_code": "60204"
+				},
+				{
+					"town": "Waikkal",
+					"postal_code": "61110"
+				},
+				{
+					"town": "Walakumburumulla",
+					"postal_code": "60198"
+				},
+				{
+					"town": "Wannigama",
+					"postal_code": "60465"
+				},
+				{
+					"town": "Wannikudawewa",
+					"postal_code": "60721"
+				},
+				{
+					"town": "Wannilhalagama",
+					"postal_code": "60722"
+				},
+				{
+					"town": "Wannirasnayakapura",
+					"postal_code": "60490"
+				},
+				{
+					"town": "Warawewa",
+					"postal_code": "60739"
+				},
+				{
+					"town": "Wariyapola",
+					"postal_code": "60400"
+				},
+				{
+					"town": "Watugahamulla",
+					"postal_code": "61198"
+				},
+				{
+					"town": "Watuwatta",
+					"postal_code": "60262"
+				},
+				{
+					"town": "Weerapokuna",
+					"postal_code": "60454"
+				},
+				{
+					"town": "Welawa Juncton",
+					"postal_code": "60464"
+				},
+				{
+					"town": "Welipennagahamulla",
+					"postal_code": "60240"
+				},
+				{
+					"town": "Wellagala",
+					"postal_code": "60402"
+				},
+				{
+					"town": "Wellarawa",
+					"postal_code": "60456"
+				},
+				{
+					"town": "Wellawa",
+					"postal_code": "60570"
+				},
+				{
+					"town": "Welpalla",
+					"postal_code": "60206"
+				},
+				{
+					"town": "Wennappuwa",
+					"postal_code": "61170"
+				},
+				{
+					"town": "Wennoruwa",
+					"postal_code": "60284"
+				},
+				{
+					"town": "Weuda",
+					"postal_code": "60080"
+				},
+				{
+					"town": "Wewagama",
+					"postal_code": "60195"
+				},
+				{
+					"town": "Wijeyakatupotha",
+					"postal_code": "61006"
+				},
+				{
+					"town": "Wilpotha",
+					"postal_code": "61008"
+				},
+				{
+					"town": "Yakwila",
+					"postal_code": "60202"
+				},
+				{
+					"town": "Yatigaloluwa",
+					"postal_code": "60314"
+				},
+				{
+					"town": "Yogiyana",
+					"postal_code": "61144"
+				}
+			]
+		},
+		{
+			"province": "Northern",
+			"towns": [
+				{
+					"town": "Jaffna",
+					"postal_code": "40000"
+				},
+				{
+					"town": "Mannar",
+					"postal_code": "41000"
+				},
+				{
+					"town": "Mullativu",
+					"postal_code": "42000"
+				},
+				{
+					"town": "Vavuniya",
+					"postal_code": "43000"
+				}
+			]
+		},
+		{
+			"province": "Uva",
+			"towns": [
+				{
+					"town": "Akkarasiyaya",
+					"postal_code": "90166"
+				},
+				{
+					"town": "Aluketiyawa",
+					"postal_code": "90736"
+				},
+				{
+					"town": "Aluttaramma",
+					"postal_code": "90722"
+				},
+				{
+					"town": "Ambadandegama",
+					"postal_code": "90108"
+				},
+				{
+					"town": "Ambagahawatta",
+					"postal_code": "90326"
+				},
+				{
+					"town": "Ambagasdowa",
+					"postal_code": "90300"
+				},
+				{
+					"town": "Amunumulla",
+					"postal_code": "90204"
+				},
+				{
+					"town": "Angunakolawewa",
+					"postal_code": "91302"
+				},
+				{
+					"town": "Arawa",
+					"postal_code": "90017"
+				},
+				{
+					"town": "Arawakumbura",
+					"postal_code": "90532"
+				},
+				{
+					"town": "Arawatta",
+					"postal_code": "90712"
+				},
+				{
+					"town": "Atakiriya",
+					"postal_code": "90542"
+				},
+				{
+					"town": "Ayiwela",
+					"postal_code": "91516"
+				},
+				{
+					"town": "Badalkumbura",
+					"postal_code": "91070"
+				},
+				{
+					"town": "Badulla",
+					"postal_code": "90000"
+				},
+				{
+					"town": "Baduluoya",
+					"postal_code": "90019"
+				},
+				{
+					"town": "Baduluwela",
+					"postal_code": "91058"
+				},
+				{
+					"town": "Bakinigahawela",
+					"postal_code": "91554"
+				},
+				{
+					"town": "Balaharuwa",
+					"postal_code": "91295"
+				},
+				{
+					"town": "Ballaketuwa",
+					"postal_code": "90092"
+				},
+				{
+					"town": "Bambarapana",
+					"postal_code": "90322"
+				},
+				{
+					"town": "Bandarawela",
+					"postal_code": "90100"
+				},
+				{
+					"town": "Beramada",
+					"postal_code": "90066"
+				},
+				{
+					"town": "Bibile",
+					"postal_code": "91500"
+				},
+				{
+					"town": "Bibilegama",
+					"postal_code": "90502"
+				},
+				{
+					"town": "Bogahakumbura",
+					"postal_code": "90354"
+				},
+				{
+					"town": "Boragas",
+					"postal_code": "90362"
+				},
+				{
+					"town": "Boralanda",
+					"postal_code": "90170"
+				},
+				{
+					"town": "Bowela",
+					"postal_code": "90302"
+				},
+				{
+					"town": "Buddama",
+					"postal_code": "91038"
+				},
+				{
+					"town": "Buttala",
+					"postal_code": "91100"
+				},
+				{
+					"town": "Dambagalla",
+					"postal_code": "91050"
+				},
+				{
+					"town": "Dambana",
+					"postal_code": "90714"
+				},
+				{
+					"town": "Demodara",
+					"postal_code": "90080"
+				},
+				{
+					"town": "Diganatenna",
+					"postal_code": "90132"
+				},
+				{
+					"town": "Dikkapitiya",
+					"postal_code": "90214"
+				},
+				{
+					"town": "Dimbulana",
+					"postal_code": "90324"
+				},
+				{
+					"town": "Divulapelessa",
+					"postal_code": "90726"
+				},
+				{
+					"town": "Diyakobala",
+					"postal_code": "91514"
+				},
+				{
+					"town": "Diyatalawa",
+					"postal_code": "90150"
+				},
+				{
+					"town": "Dombagahawela",
+					"postal_code": "91010"
+				},
+				{
+					"town": "Dulgolla",
+					"postal_code": "90104"
+				},
+				{
+					"town": "Egodawela",
+					"postal_code": "90013"
+				},
+				{
+					"town": "Ekamutugama",
+					"postal_code": "70254"
+				},
+				{
+					"town": "Ekiriyankumbura",
+					"postal_code": "91502"
+				},
+				{
+					"town": "Ella",
+					"postal_code": "90090"
+				},
+				{
+					"town": "Ethimalewewa",
+					"postal_code": "91020"
+				},
+				{
+					"town": "Ettampitiya",
+					"postal_code": "90140"
+				},
+				{
+					"town": "Ettiliwewa",
+					"postal_code": "91250"
+				},
+				{
+					"town": "Galabedda",
+					"postal_code": "91008"
+				},
+				{
+					"town": "Galauda",
+					"postal_code": "90065"
+				},
+				{
+					"town": "Galedanda",
+					"postal_code": "90206"
+				},
+				{
+					"town": "Galporuyaya",
+					"postal_code": "90752"
+				},
+				{
+					"town": "Gamewela",
+					"postal_code": "90512"
+				},
+				{
+					"town": "Gawarawela",
+					"postal_code": "90082"
+				},
+				{
+					"town": "Girandurukotte",
+					"postal_code": "90750"
+				},
+				{
+					"town": "Godunna",
+					"postal_code": "90067"
+				},
+				{
+					"town": "Gurutalawa",
+					"postal_code": "90208"
+				},
+				{
+					"town": "Haldummulla",
+					"postal_code": "90180"
+				},
+				{
+					"town": "Hali Ela",
+					"postal_code": "90060"
+				},
+				{
+					"town": "Hambegamuwa",
+					"postal_code": "91308"
+				},
+				{
+					"town": "Hangunnawa",
+					"postal_code": "90224"
+				},
+				{
+					"town": "Haputale",
+					"postal_code": "90160"
+				},
+				{
+					"town": "Hebarawa",
+					"postal_code": "90724"
+				},
+				{
+					"town": "Heeloya",
+					"postal_code": "90112"
+				},
+				{
+					"town": "Helahalpe",
+					"postal_code": "90122"
+				},
+				{
+					"town": "Helapupula",
+					"postal_code": "90094"
+				},
+				{
+					"town": "Hewanakumbura",
+					"postal_code": "90358"
+				},
+				{
+					"town": "Hingurukaduwa",
+					"postal_code": "90508"
+				},
+				{
+					"town": "Hopton",
+					"postal_code": "90524"
+				},
+				{
+					"town": "Hulandawa",
+					"postal_code": "91004"
+				},
+				{
+					"town": "Idalgashinna",
+					"postal_code": "96167"
+				},
+				{
+					"town": "Inginiyagala",
+					"postal_code": "91040"
+				},
+				{
+					"town": "Jangulla",
+					"postal_code": "90063"
+				},
+				{
+					"town": "Kahataruppa",
+					"postal_code": "90052"
+				},
+				{
+					"town": "Kalubululanda",
+					"postal_code": "90352"
+				},
+				{
+					"town": "Kalugahakandura",
+					"postal_code": "90546"
+				},
+				{
+					"town": "Kalupahana",
+					"postal_code": "90186"
+				},
+				{
+					"town": "Kandaketya",
+					"postal_code": "90020"
+				},
+				{
+					"town": "Kandaudapanguwa",
+					"postal_code": "91032"
+				},
+				{
+					"town": "Kandawinna",
+					"postal_code": "91552"
+				},
+				{
+					"town": "Kandegedara",
+					"postal_code": "90070"
+				},
+				{
+					"town": "Kandepuhulpola",
+					"postal_code": "90356"
+				},
+				{
+					"town": "Kataragama",
+					"postal_code": "91400"
+				},
+				{
+					"town": "Kebillawela",
+					"postal_code": "90102"
+				},
+				{
+					"town": "Kendagolla",
+					"postal_code": "90048"
+				},
+				{
+					"town": "Keppetipola",
+					"postal_code": "90350"
+				},
+				{
+					"town": "Keselpotha",
+					"postal_code": "90738"
+				},
+				{
+					"town": "Ketawatta",
+					"postal_code": "90016"
+				},
+				{
+					"town": "Kiriibbanwewa",
+					"postal_code": "70252"
+				},
+				{
+					"town": "Kiriwanagama",
+					"postal_code": "90184"
+				},
+				{
+					"town": "Koslanda",
+					"postal_code": "90190"
+				},
+				{
+					"town": "Kotagama",
+					"postal_code": "91512"
+				},
+				{
+					"town": "Kotamuduna",
+					"postal_code": "90506"
+				},
+				{
+					"town": "Kotawehera Mankada",
+					"postal_code": "91312"
+				},
+				{
+					"town": "Kotiyagala",
+					"postal_code": "91024"
+				},
+				{
+					"town": "Kumbukkana",
+					"postal_code": "91098"
+				},
+				{
+					"town": "Kuruwitenna",
+					"postal_code": "90728"
+				},
+				{
+					"town": "Kuttiyagolla",
+					"postal_code": "90046"
+				},
+				{
+					"town": "Landewela",
+					"postal_code": "90068"
+				},
+				{
+					"town": "Liyangahawela",
+					"postal_code": "90106"
+				},
+				{
+					"town": "Lunugala",
+					"postal_code": "90530"
+				},
+				{
+					"town": "Lunuwatta",
+					"postal_code": "90310"
+				},
+				{
+					"town": "Madulsima",
+					"postal_code": "90535"
+				},
+				{
+					"town": "Mahagama Colony",
+					"postal_code": "70256"
+				},
+				{
+					"town": "Mahiyanganaya",
+					"postal_code": "90700"
+				},
+				{
+					"town": "Makulella",
+					"postal_code": "90114"
+				},
+				{
+					"town": "Malgoda",
+					"postal_code": "90754"
+				},
+				{
+					"town": "Maliyadda",
+					"postal_code": "90022"
+				},
+				{
+					"town": "Mapakadawewa",
+					"postal_code": "90730"
+				},
+				{
+					"town": "Marawa",
+					"postal_code": "91006"
+				},
+				{
+					"town": "Mariarawa",
+					"postal_code": "91052"
+				},
+				{
+					"town": "Maspanna",
+					"postal_code": "90328"
+				},
+				{
+					"town": "Maussagolla",
+					"postal_code": "90582"
+				},
+				{
+					"town": "Medagana",
+					"postal_code": "91550"
+				},
+				{
+					"town": "Medawela Udukinda",
+					"postal_code": "90218"
+				},
+				{
+					"town": "Medawelagama",
+					"postal_code": "90518"
+				},
+				{
+					"town": "Meegahakiula",
+					"postal_code": "90015"
+				},
+				{
+					"town": "Metigahatenna",
+					"postal_code": "90540"
+				},
+				{
+					"town": "Mirahawatta",
+					"postal_code": "90134"
+				},
+				{
+					"town": "Miriyabedda",
+					"postal_code": "90504"
+				},
+				{
+					"town": "Miyanakandura",
+					"postal_code": "90584"
+				},
+				{
+					"town": "Monaragala",
+					"postal_code": "91000"
+				},
+				{
+					"town": "Moretuwegama",
+					"postal_code": "91108"
+				},
+				{
+					"town": "Nakkala",
+					"postal_code": "91003"
+				},
+				{
+					"town": "Namunukula",
+					"postal_code": "90580"
+				},
+				{
+					"town": "Nannapurawa",
+					"postal_code": "91519"
+				},
+				{
+					"town": "Narangala",
+					"postal_code": "90064"
+				},
+				{
+					"town": "Nelliyadda",
+					"postal_code": "91042"
+				},
+				{
+					"town": "Nelumgama",
+					"postal_code": "90042"
+				},
+				{
+					"town": "Nikapotha",
+					"postal_code": "90165"
+				},
+				{
+					"town": "Nilgala",
+					"postal_code": "91508"
+				},
+				{
+					"town": "Nugatalawa",
+					"postal_code": "90216"
+				},
+				{
+					"town": "Obbegoda",
+					"postal_code": "91007"
+				},
+				{
+					"town": "Ohiya",
+					"postal_code": "90168"
+				},
+				{
+					"town": "Okkampitiya",
+					"postal_code": "91060"
+				},
+				{
+					"town": "Pahalarathkinda",
+					"postal_code": "90756"
+				},
+				{
+					"town": "Pallekiruwa",
+					"postal_code": "90534"
+				},
+				{
+					"town": "Pangura",
+					"postal_code": "91002"
+				},
+				{
+					"town": "Passara",
+					"postal_code": "90500"
+				},
+				{
+					"town": "Pathanewatta",
+					"postal_code": "90071"
+				},
+				{
+					"town": "Pattiyagedara",
+					"postal_code": "90138"
+				},
+				{
+					"town": "Pelagahatenna",
+					"postal_code": "90522"
+				},
+				{
+					"town": "Perawella",
+					"postal_code": "90222"
+				},
+				{
+					"town": "Pitakumbura",
+					"postal_code": "91505"
+				},
+				{
+					"town": "Pitamaruwa",
+					"postal_code": "90544"
+				},
+				{
+					"town": "Pitapola",
+					"postal_code": "90171"
+				},
+				{
+					"town": "Puhulpola",
+					"postal_code": "90212"
+				},
+				{
+					"town": "Randeniya",
+					"postal_code": "91204"
+				},
+				{
+					"town": "Ratkarawwa",
+					"postal_code": "90164"
+				},
+				{
+					"town": "Ridimaliyadda",
+					"postal_code": "90704"
+				},
+				{
+					"town": "Rilpola",
+					"postal_code": "90026"
+				},
+				{
+					"town": "Ruwalwela",
+					"postal_code": "91056"
+				},
+				{
+					"town": "Sella Kataragama",
+					"postal_code": "91405"
+				},
+				{
+					"town": "Sewanagala",
+					"postal_code": "70250"
+				},
+				{
+					"town": "Silmiyapura",
+					"postal_code": "90364"
+				},
+				{
+					"town": "Sirimalgoda",
+					"postal_code": "90044"
+				},
+				{
+					"town": "Siyambalagune",
+					"postal_code": "91202"
+				},
+				{
+					"town": "Siyambalanduwa",
+					"postal_code": "91030"
+				},
+				{
+					"town": "Sorabora Colony",
+					"postal_code": "90718"
+				},
+				{
+					"town": "Soragune",
+					"postal_code": "90183"
+				},
+				{
+					"town": "Soranatota",
+					"postal_code": "90008"
+				},
+				{
+					"town": "Spring Valley",
+					"postal_code": "90028"
+				},
+				{
+					"town": "Suriara",
+					"postal_code": "91306"
+				},
+				{
+					"town": "Taldena",
+					"postal_code": "90014"
+				},
+				{
+					"town": "Tanamalwila",
+					"postal_code": "91300"
+				},
+				{
+					"town": "Tennepanguwa",
+					"postal_code": "90072"
+				},
+				{
+					"town": "Timbirigaspitiya",
+					"postal_code": "90012"
+				},
+				{
+					"town": "Uduhawara",
+					"postal_code": "90226"
+				},
+				{
+					"town": "Uraniya",
+					"postal_code": "90702"
+				},
+				{
+					"town": "Uva Deegalla",
+					"postal_code": "90062"
+				},
+				{
+					"town": "Uva Gangodagama",
+					"postal_code": "91054"
+				},
+				{
+					"town": "Uva Karandagolla",
+					"postal_code": "90091"
+				},
+				{
+					"town": "Uva Kudaoya",
+					"postal_code": "91298"
+				},
+				{
+					"town": "Uva Mawelagama",
+					"postal_code": "90192"
+				},
+				{
+					"town": "Uva Pelwatta",
+					"postal_code": "91112"
+				},
+				{
+					"town": "Uva Tenna",
+					"postal_code": "90188"
+				},
+				{
+					"town": "Uva Tissapura",
+					"postal_code": "90734"
+				},
+				{
+					"town": "Uva Uduwara",
+					"postal_code": "90061"
+				},
+				{
+					"town": "Uvaparanagama",
+					"postal_code": "90230"
+				},
+				{
+					"town": "Warunagama",
+					"postal_code": "91198"
+				},
+				{
+					"town": "Wedikumbura",
+					"postal_code": "91005"
+				},
+				{
+					"town": "Weherayaya Handapanagala",
+					"postal_code": "91206"
+				},
+				{
+					"town": "Welimada",
+					"postal_code": "90200"
+				},
+				{
+					"town": "Wellawaya",
+					"postal_code": "91200"
+				},
+				{
+					"town": "Wewatta",
+					"postal_code": "90716"
+				},
+				{
+					"town": "Wilaoya",
+					"postal_code": "91022"
+				},
+				{
+					"town": "Wineethagama",
+					"postal_code": "90034"
+				},
+				{
+					"town": "Yalagamuwa",
+					"postal_code": "90329"
+				},
+				{
+					"town": "Yalwela",
+					"postal_code": "90706"
+				}
+			]
+		},
+		{
+			"province": "Sabaragamuwa",
+			"towns": [
+				{
+					"town": "Akarella",
+					"postal_code": "70082"
+				},
+				{
+					"town": "Alawatura",
+					"postal_code": "71204"
+				},
+				{
+					"town": "Algama",
+					"postal_code": "71607"
+				},
+				{
+					"town": "Alutnuwara",
+					"postal_code": "71508"
+				},
+				{
+					"town": "Ambalakanda",
+					"postal_code": "71546"
+				},
+				{
+					"town": "Ambulugala",
+					"postal_code": "71503"
+				},
+				{
+					"town": "Amitirigala",
+					"postal_code": "71320"
+				},
+				{
+					"town": "Ampagala",
+					"postal_code": "71232"
+				},
+				{
+					"town": "Anhettigama",
+					"postal_code": "71403"
+				},
+				{
+					"town": "Aranayaka",
+					"postal_code": "71540"
+				},
+				{
+					"town": "Aruggammana",
+					"postal_code": "71041"
+				},
+				{
+					"town": "Atakalanpanna",
+					"postal_code": "70294"
+				},
+				{
+					"town": "Atale",
+					"postal_code": "71363"
+				},
+				{
+					"town": "Ayagama",
+					"postal_code": "70024"
+				},
+				{
+					"town": "Balangoda",
+					"postal_code": "70100"
+				},
+				{
+					"town": "Batatota",
+					"postal_code": "70504"
+				},
+				{
+					"town": "Batuwita",
+					"postal_code": "71321"
+				},
+				{
+					"town": "Beligala",
+					"postal_code": "71044"
+				},
+				{
+					"town": "Belihuloya",
+					"postal_code": "70140"
+				},
+				{
+					"town": "Berannawa",
+					"postal_code": "71706"
+				},
+				{
+					"town": "Bolthumbe",
+					"postal_code": "70131"
+				},
+				{
+					"town": "Bomluwageaina",
+					"postal_code": "70344"
+				},
+				{
+					"town": "Bopitiya",
+					"postal_code": "71612"
+				},
+				{
+					"town": "Boralankada",
+					"postal_code": "71418"
+				},
+				{
+					"town": "Bossella",
+					"postal_code": "71208"
+				},
+				{
+					"town": "Bulathkohupitiya",
+					"postal_code": "71230"
+				},
+				{
+					"town": "Bulutota",
+					"postal_code": "70346"
+				},
+				{
+					"town": "Dambuluwana",
+					"postal_code": "70019"
+				},
+				{
+					"town": "Damunupola",
+					"postal_code": "71034"
+				},
+				{
+					"town": "Daugala",
+					"postal_code": "70455"
+				},
+				{
+					"town": "Debathgama",
+					"postal_code": "71037"
+				},
+				{
+					"town": "Dedugala",
+					"postal_code": "71237"
+				},
+				{
+					"town": "Deewala Pallegama",
+					"postal_code": "71022"
+				},
+				{
+					"town": "Dehiowita",
+					"postal_code": "71400"
+				},
+				{
+					"town": "Dela",
+					"postal_code": "70042"
+				},
+				{
+					"town": "Deldeniya",
+					"postal_code": "71009"
+				},
+				{
+					"town": "Deloluwa",
+					"postal_code": "71401"
+				},
+				{
+					"town": "Delwala",
+					"postal_code": "70046"
+				},
+				{
+					"town": "Demuwatha",
+					"postal_code": "70332"
+				},
+				{
+					"town": "Deraniyagala",
+					"postal_code": "71430"
+				},
+				{
+					"town": "Dewalegama",
+					"postal_code": "71050"
+				},
+				{
+					"town": "Dewanagala",
+					"postal_code": "71527"
+				},
+				{
+					"town": "Dodampe",
+					"postal_code": "70017"
+				},
+				{
+					"town": "Doloswalakanda",
+					"postal_code": "70404"
+				},
+				{
+					"town": "Dombemada",
+					"postal_code": "71115"
+				},
+				{
+					"town": "Dorawaka",
+					"postal_code": "71601"
+				},
+				{
+					"town": "Dumbara Manana",
+					"postal_code": "70495"
+				},
+				{
+					"town": "Dunumala",
+					"postal_code": "71605"
+				},
+				{
+					"town": "Eheliyagoda",
+					"postal_code": "70600"
+				},
+				{
+					"town": "Elapatha",
+					"postal_code": "70032"
+				},
+				{
+					"town": "Ellagawa",
+					"postal_code": "70492"
+				},
+				{
+					"town": "Ellaulla",
+					"postal_code": "70552"
+				},
+				{
+					"town": "Ellawala",
+					"postal_code": "70606"
+				},
+				{
+					"town": "Embilipitiya",
+					"postal_code": "70200"
+				},
+				{
+					"town": "Eratna",
+					"postal_code": "70506"
+				},
+				{
+					"town": "Erepola",
+					"postal_code": "70602"
+				},
+				{
+					"town": "Gabbela",
+					"postal_code": "70156"
+				},
+				{
+					"town": "Galapitamada",
+					"postal_code": "71603"
+				},
+				{
+					"town": "Galatara",
+					"postal_code": "71505"
+				},
+				{
+					"town": "Galigamuwa Town",
+					"postal_code": "71350"
+				},
+				{
+					"town": "Gallella",
+					"postal_code": "70062"
+				},
+				{
+					"town": "Galpatha",
+					"postal_code": "71312"
+				},
+				{
+					"town": "Gangeyaya",
+					"postal_code": "70195"
+				},
+				{
+					"town": "Gantuna",
+					"postal_code": "71222"
+				},
+				{
+					"town": "Gawaragiriya",
+					"postal_code": "70026"
+				},
+				{
+					"town": "Getahetta",
+					"postal_code": "70620"
+				},
+				{
+					"town": "Gillimale",
+					"postal_code": "70002"
+				},
+				{
+					"town": "Godagampola",
+					"postal_code": "70556"
+				},
+				{
+					"town": "Godakawela",
+					"postal_code": "70160"
+				},
+				{
+					"town": "Gonagala",
+					"postal_code": "71318"
+				},
+				{
+					"town": "Gurubewilagama",
+					"postal_code": "70136"
+				},
+				{
+					"town": "Hakahinna",
+					"postal_code": "71352"
+				},
+				{
+					"town": "Hakbellawaka",
+					"postal_code": "71715"
+				},
+				{
+					"town": "Halpe",
+					"postal_code": "70145"
+				},
+				{
+					"town": "Halwinna",
+					"postal_code": "70171"
+				},
+				{
+					"town": "Handagiriya",
+					"postal_code": "70106"
+				},
+				{
+					"town": "Hapugastenna",
+					"postal_code": "70164"
+				},
+				{
+					"town": "Hatangala",
+					"postal_code": "70105"
+				},
+				{
+					"town": "Hatarabage",
+					"postal_code": "70108"
+				},
+				{
+					"town": "Helamada",
+					"postal_code": "71046"
+				},
+				{
+					"town": "Hemmatagama",
+					"postal_code": "71530"
+				},
+				{
+					"town": "Hettimulla",
+					"postal_code": "71210"
+				},
+				{
+					"town": "Hewadiwela",
+					"postal_code": "71108"
+				},
+				{
+					"town": "Hidellana",
+					"postal_code": "70012"
+				},
+				{
+					"town": "Hingula",
+					"postal_code": "71520"
+				},
+				{
+					"town": "Hinguralakanda",
+					"postal_code": "71417"
+				},
+				{
+					"town": "Hiramadagama",
+					"postal_code": "70296"
+				},
+				{
+					"town": "Hiriwadunna",
+					"postal_code": "71014"
+				},
+				{
+					"town": "Ihalagama",
+					"postal_code": "70144"
+				},
+				{
+					"town": "Imbulana",
+					"postal_code": "71313"
+				},
+				{
+					"town": "Imbulgasdeniya",
+					"postal_code": "71055"
+				},
+				{
+					"town": "Ittakanda",
+					"postal_code": "70342"
+				},
+				{
+					"town": "Kabagamuwa",
+					"postal_code": "71202"
+				},
+				{
+					"town": "Kahangama",
+					"postal_code": "70016"
+				},
+				{
+					"town": "Kahawatta",
+					"postal_code": "70150"
+				},
+				{
+					"town": "Kalawana",
+					"postal_code": "70450"
+				},
+				{
+					"town": "Kaltota",
+					"postal_code": "70122"
+				},
+				{
+					"town": "Kannattota",
+					"postal_code": "71372"
+				},
+				{
+					"town": "Karandana",
+					"postal_code": "70488"
+				},
+				{
+					"town": "Karangoda",
+					"postal_code": "70018"
+				},
+				{
+					"town": "Kegalle",
+					"postal_code": "71000"
+				},
+				{
+					"town": "Kehelpannala",
+					"postal_code": "71533"
+				},
+				{
+					"town": "Kella Junction",
+					"postal_code": "70352"
+				},
+				{
+					"town": "Kiriella",
+					"postal_code": "70480"
+				},
+				{
+					"town": "Kitulgala",
+					"postal_code": "71720"
+				},
+				{
+					"town": "Kolambageara",
+					"postal_code": "70180"
+				},
+				{
+					"town": "Kolombugama",
+					"postal_code": "70403"
+				},
+				{
+					"town": "Kolonna",
+					"postal_code": "70350"
+				},
+				{
+					"town": "Kondeniya",
+					"postal_code": "71501"
+				},
+				{
+					"town": "Kotiyakumbura",
+					"postal_code": "71370"
+				},
+				{
+					"town": "Kudawa",
+					"postal_code": "70005"
+				},
+				{
+					"town": "Kuruwita",
+					"postal_code": "70500"
+				},
+				{
+					"town": "Lellopitiya",
+					"postal_code": "70056"
+				},
+				{
+					"town": "Lewangama",
+					"postal_code": "71315"
+				},
+				{
+					"town": "Lmbulpe",
+					"postal_code": "70134"
+				},
+				{
+					"town": "Madalagama",
+					"postal_code": "70158"
+				},
+				{
+					"town": "Mahabage",
+					"postal_code": "71722"
+				},
+				{
+					"town": "Mahapallegama",
+					"postal_code": "71063"
+				},
+				{
+					"town": "Maharangalla",
+					"postal_code": "71211"
+				},
+				{
+					"town": "Mahawalatenna",
+					"postal_code": "70112"
+				},
+				{
+					"town": "Makandura Sabara",
+					"postal_code": "70298"
+				},
+				{
+					"town": "Makehelwala",
+					"postal_code": "71507"
+				},
+				{
+					"town": "Malalpola",
+					"postal_code": "71704"
+				},
+				{
+					"town": "Maliboda",
+					"postal_code": "71411"
+				},
+				{
+					"town": "Malmaduwa",
+					"postal_code": "71325"
+				},
+				{
+					"town": "Malwala Junction",
+					"postal_code": "70001"
+				},
+				{
+					"town": "Marapana",
+					"postal_code": "70041"
+				},
+				{
+					"town": "Matuwagalagama",
+					"postal_code": "70482"
+				},
+				{
+					"town": "Mawanella",
+					"postal_code": "71500"
+				},
+				{
+					"town": "Medagalatur",
+					"postal_code": "70021"
+				},
+				{
+					"town": "Meddekanda",
+					"postal_code": "70127"
+				},
+				{
+					"town": "Migastenna Sabara",
+					"postal_code": "71716"
+				},
+				{
+					"town": "Minipura Dumbara",
+					"postal_code": "70494"
+				},
+				{
+					"town": "Mitipola",
+					"postal_code": "70604"
+				},
+				{
+					"town": "Miyanawita",
+					"postal_code": "71432"
+				},
+				{
+					"town": "Molagoda",
+					"postal_code": "71016"
+				},
+				{
+					"town": "Morahela",
+					"postal_code": "70129"
+				},
+				{
+					"town": "Morontota",
+					"postal_code": "71220"
+				},
+				{
+					"town": "Mulendiyawala",
+					"postal_code": "70212"
+				},
+				{
+					"town": "Mulgama",
+					"postal_code": "70117"
+				},
+				{
+					"town": "Nawalakanda",
+					"postal_code": "70469"
+				},
+				{
+					"town": "Nawinnapinnakanda",
+					"postal_code": "70165"
+				},
+				{
+					"town": "Nelundeniya",
+					"postal_code": "71060"
+				},
+				{
+					"town": "Niralagama",
+					"postal_code": "70038"
+				},
+				{
+					"town": "Nivitigala",
+					"postal_code": "70400"
+				},
+				{
+					"town": "Niyadurupola",
+					"postal_code": "71602"
+				},
+				{
+					"town": "Noori",
+					"postal_code": "71407"
+				},
+				{
+					"town": "Omalpe",
+					"postal_code": "70215"
+				},
+				{
+					"town": "Opanayaka",
+					"postal_code": "70080"
+				},
+				{
+					"town": "Padalangala",
+					"postal_code": "70230"
+				},
+				{
+					"town": "Pallebedda",
+					"postal_code": "70170"
+				},
+				{
+					"town": "Pambagolla",
+					"postal_code": "70133"
+				},
+				{
+					"town": "Panamura",
+					"postal_code": "70218"
+				},
+				{
+					"town": "Panapitiya",
+					"postal_code": "70152"
+				},
+				{
+					"town": "Panapola",
+					"postal_code": "70461"
+				},
+				{
+					"town": "Panawala",
+					"postal_code": "70612"
+				},
+				{
+					"town": "Parakaduwa",
+					"postal_code": "70550"
+				},
+				{
+					"town": "Parape",
+					"postal_code": "71105"
+				},
+				{
+					"town": "Pattampitiya",
+					"postal_code": "71130"
+				},
+				{
+					"town": "Pebotuwa",
+					"postal_code": "70045"
+				},
+				{
+					"town": "Pelmadulla",
+					"postal_code": "70070"
+				},
+				{
+					"town": "Pimbura",
+					"postal_code": "70472"
+				},
+				{
+					"town": "Pinnawala",
+					"postal_code": "70130"
+				},
+				{
+					"town": "Pitagaldeniya",
+					"postal_code": "71360"
+				},
+				{
+					"town": "Pothukoladeniya",
+					"postal_code": "71039"
+				},
+				{
+					"town": "Pothupitiya",
+					"postal_code": "70338"
+				},
+				{
+					"town": "Rajawaka",
+					"postal_code": "70116"
+				},
+				{
+					"town": "Rakwana",
+					"postal_code": "70300"
+				},
+				{
+					"town": "Rambukkana",
+					"postal_code": "71100"
+				},
+				{
+					"town": "Ranwala",
+					"postal_code": "70162"
+				},
+				{
+					"town": "Rassagala",
+					"postal_code": "70135"
+				},
+				{
+					"town": "Ratna Hangamuwa",
+					"postal_code": "70036"
+				},
+				{
+					"town": "Ratnapura",
+					"postal_code": "70000"
+				},
+				{
+					"town": "Ruwanwella",
+					"postal_code": "71300"
+				},
+				{
+					"town": "Samanalawewa",
+					"postal_code": "70142"
+				},
+				{
+					"town": "Seaforth Colony",
+					"postal_code": "71708"
+				},
+				{
+					"town": "Sri Palabaddala",
+					"postal_code": "70004"
+				},
+				{
+					"town": "Sudagala",
+					"postal_code": "70502"
+				},
+				{
+					"town": "Talakolahinna",
+					"postal_code": "70101"
+				},
+				{
+					"town": "Talgaspitiya",
+					"postal_code": "71541"
+				},
+				{
+					"town": "Tanjantenna",
+					"postal_code": "70118"
+				},
+				{
+					"town": "Teligama",
+					"postal_code": "71724"
+				},
+				{
+					"town": "Teppanawa",
+					"postal_code": "70512"
+				},
+				{
+					"town": "Tholangamuwa",
+					"postal_code": "71619"
+				},
+				{
+					"town": "Thotawella",
+					"postal_code": "71106"
+				},
+				{
+					"town": "Tulhiriya",
+					"postal_code": "71610"
+				},
+				{
+					"town": "Tunkama",
+					"postal_code": "70205"
+				},
+				{
+					"town": "Tuntota",
+					"postal_code": "71062"
+				},
+				{
+					"town": "Udagaldeniya",
+					"postal_code": "71113"
+				},
+				{
+					"town": "Udaha Hawupe",
+					"postal_code": "70154"
+				},
+				{
+					"town": "Udakarawita",
+					"postal_code": "70044"
+				},
+				{
+					"town": "Udaniriella",
+					"postal_code": "70034"
+				},
+				{
+					"town": "Udapotha",
+					"postal_code": "71236"
+				},
+				{
+					"town": "Udawalawe",
+					"postal_code": "70190"
+				},
+				{
+					"town": "Udumulla",
+					"postal_code": "71521"
+				},
+				{
+					"town": "Ullinduwawa",
+					"postal_code": "70345"
+				},
+				{
+					"town": "Undugoda",
+					"postal_code": "71200"
+				},
+				{
+					"town": "Ussapitiya",
+					"postal_code": "71510"
+				},
+				{
+					"town": "Veddagala",
+					"postal_code": "70459"
+				},
+				{
+					"town": "Vijeriya",
+					"postal_code": "70348"
+				},
+				{
+					"town": "Wahakula",
+					"postal_code": "71303"
+				},
+				{
+					"town": "Waharaka",
+					"postal_code": "71304"
+				},
+				{
+					"town": "Waleboda",
+					"postal_code": "70138"
+				},
+				{
+					"town": "Warakapola",
+					"postal_code": "71600"
+				},
+				{
+					"town": "Watapotha",
+					"postal_code": "70408"
+				},
+				{
+					"town": "Watura",
+					"postal_code": "71035"
+				},
+				{
+					"town": "Waturawa",
+					"postal_code": "70456"
+				},
+				{
+					"town": "Weeoya",
+					"postal_code": "71702"
+				},
+				{
+					"town": "Wegalla",
+					"postal_code": "71234"
+				},
+				{
+					"town": "Weligepola",
+					"postal_code": "70104"
+				},
+				{
+					"town": "Welihelatenna",
+					"postal_code": "71712"
+				},
+				{
+					"town": "Welipathayaya",
+					"postal_code": "70124"
+				},
+				{
+					"town": "Weragala",
+					"postal_code": "71622"
+				},
+				{
+					"town": "Wewelwatta",
+					"postal_code": "70066"
+				},
+				{
+					"town": "Wikiliya",
+					"postal_code": "70114"
+				},
+				{
+					"town": "Yatagama",
+					"postal_code": "71116"
+				},
+				{
+					"town": "Yatapana",
+					"postal_code": "71326"
+				},
+				{
+					"town": "Yatiyantota",
+					"postal_code": "71700"
+				},
+				{
+					"town": "Yattogoda",
+					"postal_code": "71029"
+				}
+			]
+		},
+		{
+			"province": "Southern",
+			"towns": [
+				{
+					"town": "Agaliya",
+					"postal_code": "80212"
+				},
+				{
+					"town": "Ahangama",
+					"postal_code": "80650"
+				},
+				{
+					"town": "Ahungalla",
+					"postal_code": "80562"
+				},
+				{
+					"town": "Akmeemana",
+					"postal_code": "80090"
+				},
+				{
+					"town": "Akuressa",
+					"postal_code": "81400"
+				},
+				{
+					"town": "Alapaladeniya",
+					"postal_code": "81475"
+				},
+				{
+					"town": "Aluthwala",
+					"postal_code": "80332"
+				},
+				{
+					"town": "Ambalangoda",
+					"postal_code": "80300"
+				},
+				{
+					"town": "Ambalantota",
+					"postal_code": "82100"
+				},
+				{
+					"town": "Ampegama",
+					"postal_code": "80204"
+				},
+				{
+					"town": "Amugoda",
+					"postal_code": "80422"
+				},
+				{
+					"town": "Anangoda",
+					"postal_code": "80044"
+				},
+				{
+					"town": "Angulugaha",
+					"postal_code": "80122"
+				},
+				{
+					"town": "Angunakolapelessa",
+					"postal_code": "82220"
+				},
+				{
+					"town": "Ankokkawala",
+					"postal_code": "80048"
+				},
+				{
+					"town": "Aparekka",
+					"postal_code": "81032"
+				},
+				{
+					"town": "Athuraliya",
+					"postal_code": "81402"
+				},
+				{
+					"town": "Baddegama",
+					"postal_code": "80200"
+				},
+				{
+					"town": "Balapitiya",
+					"postal_code": "80550"
+				},
+				{
+					"town": "Banagala",
+					"postal_code": "80143"
+				},
+				{
+					"town": "Bandagiriya Colony",
+					"postal_code": "82005"
+				},
+				{
+					"town": "Barawakumbuka",
+					"postal_code": "82110"
+				},
+				{
+					"town": "Batapola",
+					"postal_code": "80320"
+				},
+				{
+					"town": "Beliatta",
+					"postal_code": "82400"
+				},
+				{
+					"town": "Bengamuwa",
+					"postal_code": "81614"
+				},
+				{
+					"town": "Bentota",
+					"postal_code": "80500"
+				},
+				{
+					"town": "Beragama",
+					"postal_code": "82102"
+				},
+				{
+					"town": "Beralapanathara",
+					"postal_code": "81541"
+				},
+				{
+					"town": "Beralihela",
+					"postal_code": "82618"
+				},
+				{
+					"town": "Boossa",
+					"postal_code": "80270"
+				},
+				{
+					"town": "Bopagoda",
+					"postal_code": "81412"
+				},
+				{
+					"town": "Bowalagama",
+					"postal_code": "82458"
+				},
+				{
+					"town": "Bundala",
+					"postal_code": "82002"
+				},
+				{
+					"town": "Dampahala",
+					"postal_code": "81612"
+				},
+				{
+					"town": "Deegala Lenama",
+					"postal_code": "81452"
+				},
+				{
+					"town": "Deiyandara",
+					"postal_code": "81320"
+				},
+				{
+					"town": "Dellawa",
+					"postal_code": "81477"
+				},
+				{
+					"town": "Denagama",
+					"postal_code": "81314"
+				},
+				{
+					"town": "Denipitiya",
+					"postal_code": "81730"
+				},
+				{
+					"town": "Deniyaya",
+					"postal_code": "81500"
+				},
+				{
+					"town": "Derangala",
+					"postal_code": "81454"
+				},
+				{
+					"town": "Devinuwara",
+					"postal_code": "81160"
+				},
+				{
+					"town": "Dikkumbura",
+					"postal_code": "80654"
+				},
+				{
+					"town": "Dikwella",
+					"postal_code": "81200"
+				},
+				{
+					"town": "Diyagaha",
+					"postal_code": "81038"
+				},
+				{
+					"town": "Diyalape",
+					"postal_code": "81422"
+				},
+				{
+					"town": "Dodanduwa",
+					"postal_code": "80250"
+				},
+				{
+					"town": "Ella Tanabaddegama",
+					"postal_code": "80402"
+				},
+				{
+					"town": "Ellagala",
+					"postal_code": "82619"
+				},
+				{
+					"town": "Elpitiya",
+					"postal_code": "80400"
+				},
+				{
+					"town": "Ethkandura",
+					"postal_code": "80458"
+				},
+				{
+					"town": "Galle",
+					"postal_code": "80000"
+				},
+				{
+					"town": "Gandara",
+					"postal_code": "81170"
+				},
+				{
+					"town": "Ganegoda",
+					"postal_code": "80440"
+				},
+				{
+					"town": "Gangulandeniya",
+					"postal_code": "82586"
+				},
+				{
+					"town": "Getamanna",
+					"postal_code": "82420"
+				},
+				{
+					"town": "Ginimellagaha",
+					"postal_code": "80220"
+				},
+				{
+					"town": "Gintota",
+					"postal_code": "80280"
+				},
+				{
+					"town": "Goda Koggalla",
+					"postal_code": "82401"
+				},
+				{
+					"town": "Godahena",
+					"postal_code": "80302"
+				},
+				{
+					"town": "Godapitiya",
+					"postal_code": "81408"
+				},
+				{
+					"town": "Gomilamawarala",
+					"postal_code": "81072"
+				},
+				{
+					"town": "Gonagalpura",
+					"postal_code": "80502"
+				},
+				{
+					"town": "Gonagamuwa Uduwila",
+					"postal_code": "82602"
+				},
+				{
+					"town": "Gonamulla Junction",
+					"postal_code": "80054"
+				},
+				{
+					"town": "Gonapinuwala",
+					"postal_code": "80230"
+				},
+				{
+					"town": "Gonnoruwa",
+					"postal_code": "82006"
+				},
+				{
+					"town": "Habaraduwa",
+					"postal_code": "80630"
+				},
+				{
+					"town": "Haburugala",
+					"postal_code": "80506"
+				},
+				{
+					"town": "Hakmana",
+					"postal_code": "81300"
+				},
+				{
+					"town": "Hakuruwela",
+					"postal_code": "82248"
+				},
+				{
+					"town": "Halvitigala Colony",
+					"postal_code": "80146"
+				},
+				{
+					"town": "Hambantota",
+					"postal_code": "82000"
+				},
+				{
+					"town": "Handugala",
+					"postal_code": "81326"
+				},
+				{
+					"town": "Hawpe",
+					"postal_code": "80132"
+				},
+				{
+					"town": "Hikkaduwa",
+					"postal_code": "80240"
+				},
+				{
+					"town": "Hiniduma",
+					"postal_code": "80080"
+				},
+				{
+					"town": "Hiyare",
+					"postal_code": "80056"
+				},
+				{
+					"town": "Horapawita",
+					"postal_code": "81108"
+				},
+				{
+					"town": "Horewelagoda",
+					"postal_code": "82456"
+				},
+				{
+					"town": "Hungama",
+					"postal_code": "82120"
+				},
+				{
+					"town": "Ihala Beligalla",
+					"postal_code": "82412"
+				},
+				{
+					"town": "Ihala Walpola",
+					"postal_code": "80134"
+				},
+				{
+					"town": "Ittademaliya",
+					"postal_code": "82462"
+				},
+				{
+					"town": "Julampitiya",
+					"postal_code": "82252"
+				},
+				{
+					"town": "Kahaduwa",
+					"postal_code": "80460"
+				},
+				{
+					"town": "Kahandamodara",
+					"postal_code": "82126"
+				},
+				{
+					"town": "Kahawa",
+					"postal_code": "80312"
+				},
+				{
+					"town": "Kalubowitiyana",
+					"postal_code": "81478"
+				},
+				{
+					"town": "Kamburugamuwa",
+					"postal_code": "81750"
+				},
+				{
+					"town": "Kamburupitiya",
+					"postal_code": "81100"
+				},
+				{
+					"town": "Kananke Bazaar",
+					"postal_code": "80136"
+				},
+				{
+					"town": "Karagoda",
+					"postal_code": "80151"
+				},
+				{
+					"town": "Karagoda Uyangoda",
+					"postal_code": "81082"
+				},
+				{
+					"town": "Karandeniya",
+					"postal_code": "80360"
+				},
+				{
+					"town": "Karaputugala",
+					"postal_code": "81106"
+				},
+				{
+					"town": "Karatota",
+					"postal_code": "81318"
+				},
+				{
+					"town": "Kariyamaditta",
+					"postal_code": "82274"
+				},
+				{
+					"town": "Katuwana",
+					"postal_code": "82500"
+				},
+				{
+					"town": "Kawantissapura",
+					"postal_code": "82622"
+				},
+				{
+					"town": "Kekanadurra",
+					"postal_code": "81020"
+				},
+				{
+					"town": "Kirama",
+					"postal_code": "82550"
+				},
+				{
+					"town": "Kirinda",
+					"postal_code": "82614"
+				},
+				{
+					"town": "Kiriweldola",
+					"postal_code": "81514"
+				},
+				{
+					"town": "Kiriwelkele",
+					"postal_code": "81456"
+				},
+				{
+					"town": "Kolawenigama",
+					"postal_code": "81522"
+				},
+				{
+					"town": "Kosgoda",
+					"postal_code": "80570"
+				},
+				{
+					"town": "Kotapola",
+					"postal_code": "81480"
+				},
+				{
+					"town": "Kottawagama",
+					"postal_code": "80062"
+				},
+				{
+					"town": "Kottegoda",
+					"postal_code": "81180"
+				},
+				{
+					"town": "Kuleegoda",
+					"postal_code": "80328"
+				},
+				{
+					"town": "Lankagama",
+					"postal_code": "81526"
+				},
+				{
+					"town": "Lhalahewessa",
+					"postal_code": "80432"
+				},
+				{
+					"town": "Lmaduwa",
+					"postal_code": "80130"
+				},
+				{
+					"town": "Lnduruwa",
+					"postal_code": "80510"
+				},
+				{
+					"town": "Lunama",
+					"postal_code": "82108"
+				},
+				{
+					"town": "Lunugamwehera",
+					"postal_code": "82634"
+				},
+				{
+					"town": "Magama",
+					"postal_code": "82608"
+				},
+				{
+					"town": "Magedara",
+					"postal_code": "80152"
+				},
+				{
+					"town": "Mahagalwewa",
+					"postal_code": "82016"
+				},
+				{
+					"town": "Makandura",
+					"postal_code": "81070"
+				},
+				{
+					"town": "Malgalla Talangalla",
+					"postal_code": "80144"
+				},
+				{
+					"town": "Maliduwa",
+					"postal_code": "81424"
+				},
+				{
+					"town": "Mamadala",
+					"postal_code": "82109"
+				},
+				{
+					"town": "Mapalagama",
+					"postal_code": "80112"
+				},
+				{
+					"town": "Mapalagama Central",
+					"postal_code": "80116"
+				},
+				{
+					"town": "Maramba",
+					"postal_code": "81416"
+				},
+				{
+					"town": "Matara",
+					"postal_code": "81000"
+				},
+				{
+					"town": "Mattaka",
+					"postal_code": "80424"
+				},
+				{
+					"town": "Meda-Keembiya",
+					"postal_code": "80092"
+				},
+				{
+					"town": "Medamulana",
+					"postal_code": "82254"
+				},
+				{
+					"town": "Mediripitiya",
+					"postal_code": "81524"
+				},
+				{
+					"town": "Meetiyagoda",
+					"postal_code": "80330"
+				},
+				{
+					"town": "Middeniya",
+					"postal_code": "82270"
+				},
+				{
+					"town": "Miella",
+					"postal_code": "81312"
+				},
+				{
+					"town": "Migahajandur",
+					"postal_code": "82014"
+				},
+				{
+					"town": "Mirissa",
+					"postal_code": "81740"
+				},
+				{
+					"town": "Miriswatta",
+					"postal_code": "80508"
+				},
+				{
+					"town": "Modarawana",
+					"postal_code": "82416"
+				},
+				{
+					"town": "Moragala Kirillapone",
+					"postal_code": "81532"
+				},
+				{
+					"town": "Morawaka",
+					"postal_code": "81470"
+				},
+				{
+					"town": "Mulatiyana Junction",
+					"postal_code": "81071"
+				},
+				{
+					"town": "Mulkirigala",
+					"postal_code": "82242"
+				},
+				{
+					"town": "Nadugala",
+					"postal_code": "81092"
+				},
+				{
+					"town": "Nagoda",
+					"postal_code": "80110"
+				},
+				{
+					"town": "Naimana",
+					"postal_code": "81017"
+				},
+				{
+					"town": "Nakiyadeniya",
+					"postal_code": "80064"
+				},
+				{
+					"town": "Nakulugamuwa",
+					"postal_code": "82300"
+				},
+				{
+					"town": "Narawelpita",
+					"postal_code": "81302"
+				},
+				{
+					"town": "Nawadagala",
+					"postal_code": "80416"
+				},
+				{
+					"town": "Neluwa",
+					"postal_code": "80082"
+				},
+				{
+					"town": "Netolpitiya",
+					"postal_code": "82135"
+				},
+				{
+					"town": "Nihiluwa",
+					"postal_code": "82414"
+				},
+				{
+					"town": "Nindana",
+					"postal_code": "80318"
+				},
+				{
+					"town": "Opatha",
+					"postal_code": "80142"
+				},
+				{
+					"town": "Padawkema",
+					"postal_code": "82636"
+				},
+				{
+					"town": "Pahala Andarawewa",
+					"postal_code": "82008"
+				},
+				{
+					"town": "Pahala Millawa",
+					"postal_code": "81472"
+				},
+				{
+					"town": "Palatuwa",
+					"postal_code": "81050"
+				},
+				{
+					"town": "Pallekanda",
+					"postal_code": "82454"
+				},
+				{
+					"town": "Panangala",
+					"postal_code": "80075"
+				},
+				{
+					"town": "Pannimulla Panagoda",
+					"postal_code": "80086"
+				},
+				{
+					"town": "Paragala",
+					"postal_code": "81474"
+				},
+				{
+					"town": "Parana Thanayamgoda",
+					"postal_code": "80114"
+				},
+				{
+					"town": "Parapamulla",
+					"postal_code": "81322"
+				},
+				{
+					"town": "Pasgoda",
+					"postal_code": "81615"
+				},
+				{
+					"town": "Penetiyana",
+					"postal_code": "81722"
+				},
+				{
+					"town": "Pitabeddara",
+					"postal_code": "81450"
+				},
+				{
+					"town": "Pitigala",
+					"postal_code": "80420"
+				},
+				{
+					"town": "Poddala",
+					"postal_code": "80170"
+				},
+				{
+					"town": "Porawagama",
+					"postal_code": "80408"
+				},
+				{
+					"town": "Pothdeniya",
+					"postal_code": "81538"
+				},
+				{
+					"town": "Puhulwella",
+					"postal_code": "81290"
+				},
+				{
+					"town": "Radawela",
+					"postal_code": "81316"
+				},
+				{
+					"town": "Rammalawarapitiya",
+					"postal_code": "82554"
+				},
+				{
+					"town": "Ranakeliya",
+					"postal_code": "82612"
+				},
+				{
+					"town": "Ranmuduwewa",
+					"postal_code": "82018"
+				},
+				{
+					"town": "Ranna",
+					"postal_code": "82125"
+				},
+				{
+					"town": "Ransegoda",
+					"postal_code": "81064"
+				},
+				{
+					"town": "Rantotuwila",
+					"postal_code": "80354"
+				},
+				{
+					"town": "Ratgama",
+					"postal_code": "80260"
+				},
+				{
+					"town": "Ratmale",
+					"postal_code": "81030"
+				},
+				{
+					"town": "Ratmalwala",
+					"postal_code": "82276"
+				},
+				{
+					"town": "Rotumba",
+					"postal_code": "81074"
+				},
+				{
+					"town": "Ru/Ridiyagama",
+					"postal_code": "82106"
+				},
+				{
+					"town": "Siyambalagoda",
+					"postal_code": "81462"
+				},
+				{
+					"town": "Sooriyawewa Town",
+					"postal_code": "82010"
+				},
+				{
+					"town": "Sultanagoda",
+					"postal_code": "81051"
+				},
+				{
+					"town": "Talagampola",
+					"postal_code": "80058"
+				},
+				{
+					"town": "Talgaspe",
+					"postal_code": "80406"
+				},
+				{
+					"town": "Talgaswela",
+					"postal_code": "80470"
+				},
+				{
+					"town": "Talpe",
+					"postal_code": "80615"
+				},
+				{
+					"town": "Tangalla",
+					"postal_code": "82200"
+				},
+				{
+					"town": "Tawalama",
+					"postal_code": "80148"
+				},
+				{
+					"town": "Telijjawila",
+					"postal_code": "81060"
+				},
+				{
+					"town": "Thihagoda",
+					"postal_code": "81280"
+				},
+				{
+					"town": "Tiranagama",
+					"postal_code": "80244"
+				},
+				{
+					"town": "Tissamaharama",
+					"postal_code": "82600"
+				},
+				{
+					"town": "Uda Gomadiya",
+					"postal_code": "82504"
+				},
+				{
+					"town": "Udalamatta",
+					"postal_code": "80108"
+				},
+				{
+					"town": "Udamattala",
+					"postal_code": "82638"
+				},
+				{
+					"town": "Udugama",
+					"postal_code": "80070"
+				},
+				{
+					"town": "Uluvitike",
+					"postal_code": "80168"
+				},
+				{
+					"town": "Unawatuna",
+					"postal_code": "80600"
+				},
+				{
+					"town": "Unenwitiya",
+					"postal_code": "80214"
+				},
+				{
+					"town": "Uragaha",
+					"postal_code": "80352"
+				},
+				{
+					"town": "Uragasmanhandiya",
+					"postal_code": "80350"
+				},
+				{
+					"town": "Urubokka",
+					"postal_code": "81600"
+				},
+				{
+					"town": "Urugamuwa",
+					"postal_code": "81230"
+				},
+				{
+					"town": "Urumutta",
+					"postal_code": "81414"
+				},
+				{
+					"town": "Uswewa",
+					"postal_code": "82278"
+				},
+				{
+					"town": "Viharahena",
+					"postal_code": "81508"
+				},
+				{
+					"town": "Vitharandeniya",
+					"postal_code": "82232"
+				},
+				{
+					"town": "Wakwella",
+					"postal_code": "80042"
+				},
+				{
+					"town": "Walahanduwa",
+					"postal_code": "80046"
+				},
+				{
+					"town": "Walakanda",
+					"postal_code": "81294"
+				},
+				{
+					"town": "Walasgala",
+					"postal_code": "81220"
+				},
+				{
+					"town": "Walasmulla",
+					"postal_code": "82450"
+				},
+				{
+					"town": "Wanchawela",
+					"postal_code": "80120"
+				},
+				{
+					"town": "Wanduramba",
+					"postal_code": "80100"
+				},
+				{
+					"town": "Waralla",
+					"postal_code": "81479"
+				},
+				{
+					"town": "Warukandeniya",
+					"postal_code": "80084"
+				},
+				{
+					"town": "Watugedara",
+					"postal_code": "80340"
+				},
+				{
+					"town": "Weeraketiya",
+					"postal_code": "82240"
+				},
+				{
+					"town": "Weerawila",
+					"postal_code": "82632"
+				},
+				{
+					"town": "Weerawila Newtown",
+					"postal_code": "82615"
+				},
+				{
+					"town": "Weihena",
+					"postal_code": "80216"
+				},
+				{
+					"town": "Wekandawela",
+					"postal_code": "82246"
+				},
+				{
+					"town": "Weligama",
+					"postal_code": "81700"
+				},
+				{
+					"town": "Weligatta",
+					"postal_code": "82004"
+				},
+				{
+					"town": "Wilpita",
+					"postal_code": "81404"
+				},
+				{
+					"town": "Yakkalamulla",
+					"postal_code": "80150"
+				},
+				{
+					"town": "Yatalamatta",
+					"postal_code": "80107"
+				},
+				{
+					"town": "Yatigala",
+					"postal_code": "82418"
+				},
+				{
+					"town": "Yatiyana",
+					"postal_code": "81034"
+				}
+			]
+		},
+		{
+			"province": "Western",
+			"towns": [
+				{
+					"town": "Agalawatta",
+					"postal_code": "12200"
+				},
+				{
+					"town": "Akaragama",
+					"postal_code": "11536"
+				},
+				{
+					"town": "Akarawita",
+					"postal_code": "10732"
+				},
+				{
+					"town": "Alawala",
+					"postal_code": "11122"
+				},
+				{
+					"town": "Alubomulla",
+					"postal_code": "12524"
+				},
+				{
+					"town": "Alutgama",
+					"postal_code": "12080"
+				},
+				{
+					"town": "Ambagaspitiya",
+					"postal_code": "11052"
+				},
+				{
+					"town": "Ambepussa",
+					"postal_code": "11212"
+				},
+				{
+					"town": "Andiambalama",
+					"postal_code": "11558"
+				},
+				{
+					"town": "Anguruwatota",
+					"postal_code": "12320"
+				},
+				{
+					"town": "Athurugiriya",
+					"postal_code": "10150"
+				},
+				{
+					"town": "Attanagalla",
+					"postal_code": "11120"
+				},
+				{
+					"town": "Avissawella",
+					"postal_code": "10700"
+				},
+				{
+					"town": "Badalgama",
+					"postal_code": "11538"
+				},
+				{
+					"town": "Baduraliya",
+					"postal_code": "12230"
+				},
+				{
+					"town": "Bambalapitiya",
+					"postal_code": "00400"
+				},
+				{
+					"town": "Bandaragama",
+					"postal_code": "12530"
+				},
+				{
+					"town": "Banduragoda",
+					"postal_code": "11244"
+				},
+				{
+					"town": "Batawala",
+					"postal_code": "10513"
+				},
+				{
+					"town": "Battaramulla",
+					"postal_code": "10120"
+				},
+				{
+					"town": "Batugampola",
+					"postal_code": "10526"
+				},
+				{
+					"town": "Batuwatta",
+					"postal_code": "11011"
+				},
+				{
+					"town": "Bellana",
+					"postal_code": "12224"
+				},
+				{
+					"town": "Bemmulla",
+					"postal_code": "11040"
+				},
+				{
+					"town": "Beruwala",
+					"postal_code": "12070"
+				},
+				{
+					"town": "Biyagama",
+					"postal_code": "11650"
+				},
+				{
+					"town": "Biyagama Ipz",
+					"postal_code": "11672"
+				},
+				{
+					"town": "Bokalagama",
+					"postal_code": "11216"
+				},
+				{
+					"town": "Bollete",
+					"postal_code": "11024"
+				},
+				{
+					"town": "Bolossagama",
+					"postal_code": "12008"
+				},
+				{
+					"town": "Bombuwala",
+					"postal_code": "12024"
+				},
+				{
+					"town": "Bopagama",
+					"postal_code": "11134"
+				},
+				{
+					"town": "Bope",
+					"postal_code": "10522"
+				},
+				{
+					"town": "Boralesgamuwa",
+					"postal_code": "10290"
+				},
+				{
+					"town": "Boralugoda",
+					"postal_code": "12142"
+				},
+				{
+					"town": "Borella",
+					"postal_code": "00800"
+				},
+				{
+					"town": "Bulathsinhala",
+					"postal_code": "12300"
+				},
+				{
+					"town": "Buthpitiya",
+					"postal_code": "11720"
+				},
+				{
+					"town": "Colpetty",
+					"postal_code": "00300"
+				},
+				{
+					"town": "Dagonna",
+					"postal_code": "11524"
+				},
+				{
+					"town": "Danawala Thiniyawala",
+					"postal_code": "12148"
+				},
+				{
+					"town": "Danowita",
+					"postal_code": "11896"
+				},
+				{
+					"town": "Debahera",
+					"postal_code": "11889"
+				},
+				{
+					"town": "Dedigamuwa",
+					"postal_code": "10656"
+				},
+				{
+					"town": "Dehiwala",
+					"postal_code": "10350"
+				},
+				{
+					"town": "Dekatana",
+					"postal_code": "11690"
+				},
+				{
+					"town": "Delgoda",
+					"postal_code": "11700"
+				},
+				{
+					"town": "Delmella",
+					"postal_code": "12304"
+				},
+				{
+					"town": "Deltara",
+					"postal_code": "10302"
+				},
+				{
+					"town": "Delwagura",
+					"postal_code": "11228"
+				},
+				{
+					"town": "Demalagama",
+					"postal_code": "11692"
+				},
+				{
+					"town": "Demanhandiya",
+					"postal_code": "11270"
+				},
+				{
+					"town": "Dewalapola",
+					"postal_code": "11102"
+				},
+				{
+					"town": "Dharga Town",
+					"postal_code": "12090"
+				},
+				{
+					"town": "Divulapitiya",
+					"postal_code": "11250"
+				},
+				{
+					"town": "Divuldeniya",
+					"postal_code": "11208"
+				},
+				{
+					"town": "Diwalakada",
+					"postal_code": "12308"
+				},
+				{
+					"town": "Dodangoda",
+					"postal_code": "12020"
+				},
+				{
+					"town": "Dombagoda",
+					"postal_code": "12416"
+				},
+				{
+					"town": "Dompe",
+					"postal_code": "11680"
+				},
+				{
+					"town": "Dunagaha",
+					"postal_code": "11264"
+				},
+				{
+					"town": "Ekala",
+					"postal_code": "11380"
+				},
+				{
+					"town": "Ellakkala",
+					"postal_code": "11116"
+				},
+				{
+					"town": "Essella",
+					"postal_code": "11108"
+				},
+				{
+					"town": "Fort",
+					"postal_code": "00100"
+				},
+				{
+					"town": "Galpatha",
+					"postal_code": "12005"
+				},
+				{
+					"town": "Gamagoda",
+					"postal_code": "12016"
+				},
+				{
+					"town": "Gampaha",
+					"postal_code": "11000"
+				},
+				{
+					"town": "Ganemulla",
+					"postal_code": "11020"
+				},
+				{
+					"town": "Gonapola Junction",
+					"postal_code": "12410"
+				},
+				{
+					"town": "Gonawalawp",
+					"postal_code": "11630"
+				},
+				{
+					"town": "Govinna",
+					"postal_code": "12310"
+				},
+				{
+					"town": "Gurulubadda",
+					"postal_code": "12236"
+				},
+				{
+					"town": "Habarakada",
+					"postal_code": "10204"
+				},
+				{
+					"town": "Halkandawila",
+					"postal_code": "12055"
+				},
+				{
+					"town": "Haltota",
+					"postal_code": "12538"
+				},
+				{
+					"town": "Halwala",
+					"postal_code": "12118"
+				},
+				{
+					"town": "Halwatura",
+					"postal_code": "12306"
+				},
+				{
+					"town": "Handapangoda",
+					"postal_code": "10524"
+				},
+				{
+					"town": "Hanwella",
+					"postal_code": "10650"
+				},
+				{
+					"town": "Havelock Town",
+					"postal_code": "00500"
+				},
+				{
+					"town": "Hedigalla Colony",
+					"postal_code": "12234"
+				},
+				{
+					"town": "Heiyanthuduwa",
+					"postal_code": "11618"
+				},
+				{
+					"town": "Henegama",
+					"postal_code": "11715"
+				},
+				{
+					"town": "Hewainna",
+					"postal_code": "10714"
+				},
+				{
+					"town": "Hinatiyana Madawala",
+					"postal_code": "11568"
+				},
+				{
+					"town": "Hiripitya",
+					"postal_code": "10232"
+				},
+				{
+					"town": "Hiswella",
+					"postal_code": "11734"
+				},
+				{
+					"town": "Hokandara",
+					"postal_code": "10118"
+				},
+				{
+					"town": "Homagama",
+					"postal_code": "10200"
+				},
+				{
+					"town": "Horagala",
+					"postal_code": "10502"
+				},
+				{
+					"town": "Horampella",
+					"postal_code": "11564"
+				},
+				{
+					"town": "Horana",
+					"postal_code": "12400"
+				},
+				{
+					"town": "Hunumulla",
+					"postal_code": "11262"
+				},
+				{
+					"town": "Ihala Madampella",
+					"postal_code": "11265"
+				},
+				{
+					"town": "Imbulgoda",
+					"postal_code": "11856"
+				},
+				{
+					"town": "Ittapana",
+					"postal_code": "12116"
+				},
+				{
+					"town": "Ja-Ela",
+					"postal_code": "11350"
+				},
+				{
+					"town": "Kadawatha",
+					"postal_code": "11850"
+				},
+				{
+					"town": "Kaduwela",
+					"postal_code": "10640"
+				},
+				{
+					"town": "Kahatowita",
+					"postal_code": "11144"
+				},
+				{
+					"town": "Kahawala",
+					"postal_code": "10508"
+				},
+				{
+					"town": "Kalagedihena",
+					"postal_code": "11875"
+				},
+				{
+					"town": "Kalatuwawa",
+					"postal_code": "10718"
+				},
+				{
+					"town": "Kalawila Kiranthidiya",
+					"postal_code": "12078"
+				},
+				{
+					"town": "Kaleliya",
+					"postal_code": "11160"
+				},
+				{
+					"town": "Kaluaggala",
+					"postal_code": "11224"
+				},
+				{
+					"town": "Kalutara",
+					"postal_code": "12000"
+				},
+				{
+					"town": "Kananwila",
+					"postal_code": "12418"
+				},
+				{
+					"town": "Kandana",
+					"postal_code": "11320"
+				},
+				{
+					"town": "Kandanagama",
+					"postal_code": "12428"
+				},
+				{
+					"town": "Kapugoda",
+					"postal_code": "10662"
+				},
+				{
+					"town": "Katana",
+					"postal_code": "11534"
+				},
+				{
+					"town": "Katunayake",
+					"postal_code": "11420 11450"
+				},
+				{
+					"town": "Katunayake Air Force Camp",
+					"postal_code": "11440"
+				},
+				{
+					"town": "Katuwellegama",
+					"postal_code": "11526"
+				},
+				{
+					"town": "Kehelwatta",
+					"postal_code": "12550"
+				},
+				{
+					"town": "Kelaniya",
+					"postal_code": "11600"
+				},
+				{
+					"town": "Kelinkanda",
+					"postal_code": "12218"
+				},
+				{
+					"town": "Kimbulapitiya",
+					"postal_code": "11522"
+				},
+				{
+					"town": "Kirindiwela",
+					"postal_code": "11730"
+				},
+				{
+					"town": "Kiriwattuduwa",
+					"postal_code": "10208"
+				},
+				{
+					"town": "Kirulapone",
+					"postal_code": "00600"
+				},
+				{
+					"town": "Kitalawalana",
+					"postal_code": "11206"
+				},
+				{
+					"town": "Kitulgoda",
+					"postal_code": "12222"
+				},
+				{
+					"town": "Kitulwala",
+					"postal_code": "11242"
+				},
+				{
+					"town": "Kochchikade",
+					"postal_code": "11540"
+				},
+				{
+					"town": "Koholana",
+					"postal_code": "12007"
+				},
+				{
+					"town": "Kolonnawa",
+					"postal_code": "10600"
+				},
+				{
+					"town": "Kosgama",
+					"postal_code": "10730"
+				},
+				{
+					"town": "Kotadeniyawa",
+					"postal_code": "11232"
+				},
+				{
+					"town": "Kotahena",
+					"postal_code": "01300"
+				},
+				{
+					"town": "Kotugoda",
+					"postal_code": "11390"
+				},
+				{
+					"town": "Kuda Uduwa",
+					"postal_code": "12426"
+				},
+				{
+					"town": "Kumbaloluwa",
+					"postal_code": "11105"
+				},
+				{
+					"town": "Lngiriya",
+					"postal_code": "12440"
+				},
+				{
+					"town": "Loluwagoda",
+					"postal_code": "11204"
+				},
+				{
+					"town": "Lunugama",
+					"postal_code": "11062"
+				},
+				{
+					"town": "Mabodale",
+					"postal_code": "11114"
+				},
+				{
+					"town": "Madapatha",
+					"postal_code": "10306"
+				},
+				{
+					"town": "Madelgamuwa",
+					"postal_code": "11033"
+				},
+				{
+					"town": "Maggona",
+					"postal_code": "12060"
+				},
+				{
+					"town": "Mahagama",
+					"postal_code": "12210"
+				},
+				{
+					"town": "Mahakalupahana",
+					"postal_code": "12126"
+				},
+				{
+					"town": "Maharagama",
+					"postal_code": "10280"
+				},
+				{
+					"town": "Makewita",
+					"postal_code": "11358"
+				},
+				{
+					"town": "Makola",
+					"postal_code": "11640"
+				},
+				{
+					"town": "Malabe",
+					"postal_code": "10115"
+				},
+				{
+					"town": "Malwana",
+					"postal_code": "11670"
+				},
+				{
+					"town": "Mandawala",
+					"postal_code": "11061"
+				},
+				{
+					"town": "Marandagahamula",
+					"postal_code": "11260"
+				},
+				{
+					"town": "Matugama",
+					"postal_code": "12100"
+				},
+				{
+					"town": "Meegahatenna",
+					"postal_code": "12130"
+				},
+				{
+					"town": "Meegama",
+					"postal_code": "12094"
+				},
+				{
+					"town": "Meegoda",
+					"postal_code": "10504"
+				},
+				{
+					"town": "Mellawagedara",
+					"postal_code": "11234"
+				},
+				{
+					"town": "Millaniya",
+					"postal_code": "12412"
+				},
+				{
+					"town": "Millewa",
+					"postal_code": "12422"
+				},
+				{
+					"town": "Minuwangoda",
+					"postal_code": "11550"
+				},
+				{
+					"town": "Mirigama",
+					"postal_code": "11200"
+				},
+				{
+					"town": "Mithirigala",
+					"postal_code": "11742"
+				},
+				{
+					"town": "Miwanapalana",
+					"postal_code": "12424"
+				},
+				{
+					"town": "Molkawa",
+					"postal_code": "12216"
+				},
+				{
+					"town": "Morapitiya",
+					"postal_code": "12232"
+				},
+				{
+					"town": "Moratuwa",
+					"postal_code": "10400"
+				},
+				{
+					"town": "Morontuduwa",
+					"postal_code": "12564"
+				},
+				{
+					"town": "Mount Lavinia",
+					"postal_code": "10370"
+				},
+				{
+					"town": "Muddaragama",
+					"postal_code": "11112"
+				},
+				{
+					"town": "Mudungoda",
+					"postal_code": "11056"
+				},
+				{
+					"town": "Mullegama",
+					"postal_code": "10202"
+				},
+				{
+					"town": "Mulleriyawa New Town",
+					"postal_code": "10620"
+				},
+				{
+					"town": "Mutwal",
+					"postal_code": "01500"
+				},
+				{
+					"town": "Napawela",
+					"postal_code": "10704"
+				},
+				{
+					"town": "Naranwala",
+					"postal_code": "11063"
+				},
+				{
+					"town": "Nawana",
+					"postal_code": "11222"
+				},
+				{
+					"town": "Nawattuduwa",
+					"postal_code": "12106"
+				},
+				{
+					"town": "Neboda",
+					"postal_code": "12030"
+				},
+				{
+					"town": "Nedungamuwa",
+					"postal_code": "11066"
+				},
+				{
+					"town": "Negombo",
+					"postal_code": "11500"
+				},
+				{
+					"town": "Nikahetikanda",
+					"postal_code": "11128"
+				},
+				{
+					"town": "Nittambuwa",
+					"postal_code": "11880"
+				},
+				{
+					"town": "Niwandama",
+					"postal_code": "11354"
+				},
+				{
+					"town": "Nugegoda",
+					"postal_code": "10250"
+				},
+				{
+					"town": "Padagoda",
+					"postal_code": "12074"
+				},
+				{
+					"town": "Padukka",
+					"postal_code": "10500"
+				},
+				{
+					"town": "Pahalahewessa",
+					"postal_code": "12144"
+				},
+				{
+					"town": "Paiyagala",
+					"postal_code": "12050"
+				},
+				{
+					"town": "Pallewela",
+					"postal_code": "11150"
+				},
+				{
+					"town": "Pamunugama",
+					"postal_code": "11370"
+				},
+				{
+					"town": "Pamunuwatta",
+					"postal_code": "11214"
+				},
+				{
+					"town": "Panadura",
+					"postal_code": "12500"
+				},
+				{
+					"town": "Pannila",
+					"postal_code": "12114"
+				},
+				{
+					"town": "Pannipitiya",
+					"postal_code": "10230"
+				},
+				{
+					"town": "Paragastota",
+					"postal_code": "12414"
+				},
+				{
+					"town": "Paragoda",
+					"postal_code": "12302"
+				},
+				{
+					"town": "Paraigama",
+					"postal_code": "12122"
+				},
+				{
+					"town": "Pasyala",
+					"postal_code": "11890"
+				},
+				{
+					"town": "Pelanda",
+					"postal_code": "12214"
+				},
+				{
+					"town": "Pelawatta",
+					"postal_code": "12138"
+				},
+				{
+					"town": "Peliyagoda",
+					"postal_code": "11830"
+				},
+				{
+					"town": "Pepiliyawala",
+					"postal_code": "11741"
+				},
+				{
+					"town": "Pethiyagoda",
+					"postal_code": "11043"
+				},
+				{
+					"town": "Piliyandala",
+					"postal_code": "10300"
+				},
+				{
+					"town": "Pitipana Homagama",
+					"postal_code": "10206"
+				},
+				{
+					"town": "Pokunuwita",
+					"postal_code": "12404"
+				},
+				{
+					"town": "Polgampola",
+					"postal_code": "12136"
+				},
+				{
+					"town": "Polgasowita",
+					"postal_code": "10320"
+				},
+				{
+					"town": "Polpithimukulana",
+					"postal_code": "11324"
+				},
+				{
+					"town": "Poruwedanda",
+					"postal_code": "12432"
+				},
+				{
+					"town": "Pugoda",
+					"postal_code": "10660"
+				},
+				{
+					"town": "Puwakpitiya",
+					"postal_code": "10712"
+				},
+				{
+					"town": "Radawadunna",
+					"postal_code": "11892"
+				},
+				{
+					"town": "Radawana",
+					"postal_code": "11725"
+				},
+				{
+					"town": "Raddolugama",
+					"postal_code": "11400"
+				},
+				{
+					"town": "Ragama",
+					"postal_code": "11010"
+				},
+				{
+					"town": "Ranala",
+					"postal_code": "10654"
+				},
+				{
+					"town": "Remunagoda",
+					"postal_code": "12009"
+				},
+				{
+					"town": "Ruggahawila",
+					"postal_code": "11142"
+				},
+				{
+					"town": "Rukmale",
+					"postal_code": "11129"
+				},
+				{
+					"town": "Seeduwa",
+					"postal_code": "11410"
+				},
+				{
+					"town": "Siddamulla",
+					"postal_code": "10304"
+				},
+				{
+					"town": "Siyambalape",
+					"postal_code": "11607"
+				},
+				{
+					"town": "Slave Island",
+					"postal_code": "00200"
+				},
+				{
+					"town": "Slave Lsland",
+					"postal_code": "00200"
+				},
+				{
+					"town": "Sri Jayawardenepu",
+					"postal_code": "10100"
+				},
+				{
+					"town": "Talahena",
+					"postal_code": "11504"
+				},
+				{
+					"town": "Talawatugoda",
+					"postal_code": "10116"
+				},
+				{
+					"town": "Tebuwana",
+					"postal_code": "12025"
+				},
+				{
+					"town": "Thimbirigaskatuwa",
+					"postal_code": "11532"
+				},
+				{
+					"town": "Tittapattara",
+					"postal_code": "10664"
+				},
+				{
+					"town": "Tummodara",
+					"postal_code": "10682"
+				},
+				{
+					"town": "Udathuthiripitiya",
+					"postal_code": "11054"
+				},
+				{
+					"town": "Udugampola",
+					"postal_code": "11030"
+				},
+				{
+					"town": "Uduwara",
+					"postal_code": "12322"
+				},
+				{
+					"town": "Uggalboda",
+					"postal_code": "11034"
+				},
+				{
+					"town": "Urapola",
+					"postal_code": "11126"
+				},
+				{
+					"town": "Uswetakeiyawa",
+					"postal_code": "11328"
+				},
+				{
+					"town": "Utumgama",
+					"postal_code": "12127"
+				},
+				{
+					"town": "Veyangalla",
+					"postal_code": "12204"
+				},
+				{
+					"town": "Veyangoda",
+					"postal_code": "11100"
+				},
+				{
+					"town": "Wadduwa",
+					"postal_code": "12560"
+				},
+				{
+					"town": "Waga",
+					"postal_code": "10680"
+				},
+				{
+					"town": "Walagedara",
+					"postal_code": "12112"
+				},
+				{
+					"town": "Walallawita",
+					"postal_code": "12134"
+				},
+				{
+					"town": "Walgammulla",
+					"postal_code": "11146"
+				},
+				{
+					"town": "Walpita",
+					"postal_code": "11226"
+				},
+				{
+					"town": "Walpola",
+					"postal_code": "11012"
+				},
+				{
+					"town": "Wanaluwewa",
+					"postal_code": "11068"
+				},
+				{
+					"town": "Waskaduwa",
+					"postal_code": "12580"
+				},
+				{
+					"town": "Watareka",
+					"postal_code": "10511"
+				},
+				{
+					"town": "Wathurugama",
+					"postal_code": "11724"
+				},
+				{
+					"town": "Watinapaha",
+					"postal_code": "11104"
+				},
+				{
+					"town": "Wattala",
+					"postal_code": "11104"
+				},
+				{
+					"town": "Weboda",
+					"postal_code": "11858"
+				},
+				{
+					"town": "Wegowwa",
+					"postal_code": "11562"
+				},
+				{
+					"town": "Welipenna",
+					"postal_code": "12108"
+				},
+				{
+					"town": "Weliveriya",
+					"postal_code": "11710"
+				},
+				{
+					"town": "Wellawatta",
+					"postal_code": "00600"
+				},
+				{
+					"town": "Welmilla Junction",
+					"postal_code": "12534"
+				},
+				{
+					"town": "Weweldeniya",
+					"postal_code": "11894"
+				},
+				{
+					"town": "Yagirala",
+					"postal_code": "12124"
+				},
+				{
+					"town": "Yakkala",
+					"postal_code": "11870"
+				},
+				{
+					"town": "Yatadolawatta",
+					"postal_code": "12104"
+				},
+				{
+					"town": "Yatawara Junction",
+					"postal_code": "12006"
+				},
+				{
+					"town": "Yatiyana",
+					"postal_code": "11566"
+				}
+			]
+		}
+	]
+}

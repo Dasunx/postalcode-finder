@@ -9,7 +9,10 @@ class Routing {
 
     switch (settings.name) {
       case HomeScreen.id:
-        return MaterialPageRoute(builder: (_) => HomeScreen());
+        return MaterialPageRoute(
+            builder: (_) => HomeScreen(
+                  provinces: arguments,
+                ));
       case SplashScreen.id:
         return MaterialPageRoute(builder: (_) => SplashScreen());
       default:

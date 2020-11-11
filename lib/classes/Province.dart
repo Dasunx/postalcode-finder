@@ -5,9 +5,14 @@ import 'package:flutter/services.dart';
 class Province {
   String name;
   String tpCode;
+  String image;
+  int count;
 
   Province();
-  Province.fromJson(Map<String, dynamic> json) : name = json['province'];
+  Province.fromJson(Map<String, dynamic> json)
+      : name = json['province'],
+        image = json['image'],
+        count = json['towns'].length;
 
   Future<List<Province>> loadJson() async {
     List<Province> tempProvince = List<Province>();

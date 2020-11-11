@@ -2,6 +2,7 @@
 	"provinces": [
 		{
 			"province": "Central",
+			"image": "central.jpg",
 			"towns": [
 				{
 					"town": "Agarapathana",
@@ -1227,6 +1228,7 @@
 		},
 		{
 			"province": "Eastern",
+			"image": "eastern.jpg",
 			"towns": [
 				{
 					"town": "Addalaichenai",
@@ -1816,6 +1818,7 @@
 		},
 		{
 			"province": "North Central",
+			"image": "northcentral.jpg",
 			"towns": [
 				{
 					"town": "Alutwewa",
@@ -2581,6 +2584,7 @@
 		},
 		{
 			"province": "North Western",
+			"image": "northwestern.jpg",
 			"towns": [
 				{
 					"town": "Adippala",
@@ -3714,6 +3718,7 @@
 		},
 		{
 			"province": "Northern",
+			"image": "northern.jpg",
 			"towns": [
 				{
 					"town": "Jaffna",
@@ -3735,6 +3740,7 @@
 		},
 		{
 			"province": "Uva",
+			"image": "uva.jpg",
 			"towns": [
 				{
 					"town": "Akkarasiyaya",
@@ -4500,6 +4506,7 @@
 		},
 		{
 			"province": "Sabaragamuwa",
+			"image": "sabaragamuwa.jpg",
 			"towns": [
 				{
 					"town": "Akarella",
@@ -5381,6 +5388,7 @@
 		},
 		{
 			"province": "Southern",
+			"image": "southern.jpg",
 			"towns": [
 				{
 					"town": "Agaliya",
@@ -6326,6 +6334,7 @@
 		},
 		{
 			"province": "Western",
+			"image": "western.jpg",
 			"towns": [
 				{
 					"town": "Agalawatta",

@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:postal_codes/classes/Constants.dart';
 import 'package:postal_codes/classes/DarkThemeProvider.dart';
 import 'package:postal_codes/classes/PostalCodes.dart';
 import 'package:postal_codes/classes/Province.dart';
+import 'package:postal_codes/components/SearchBar.dart';
 import 'package:postal_codes/screens/SplashScreen.dart';
 import 'package:provider/provider.dart';
 
@@ -15,26 +18,157 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  List<Province> provincesList;
+  List<Province> fullList = List<Province>();
+  List<Province> provincesList = List<Province>();
+  FocusNode myFocusNode = new FocusNode();
+  TextEditingController textEditingController = new TextEditingController();
   @override
   void initState() {
-    provincesList = widget.provinces;
+    fullList = widget.provinces;
+    provincesList.addAll(fullList);
     super.initState();
+  }
+
+  void filterResult(String query) {
+    if (query.isNotEmpty) {
+      List<Province> filteredList = List<Province>();
+      fullList.forEach((element) {
+        if (element.name.toLowerCase().contains(query.toLowerCase())) {
+          filteredList.add(element);
+        }
+      });
+      if (mounted) {
+        setState(() {
+          provincesList.clear();
+          provincesList.addAll(filteredList);
+        });
+      }
+      return;
+    } else {
+      if (mounted) {
+        setState(() {
+          provincesList.clear();
+          provincesList.addAll(fullList);
+        });
+      }
+    }
   }
 
   @override
   Widget build(BuildContext context) {
+    double width = MediaQuery.of(context).size.width;
+    double height = MediaQuery.of(context).size.height;
     final themeChange = Provider.of<DarkThemeProvider>(context);
-    return Scaffold(
-      appBar: AppBar(
-        title: Text("Postal finder"),
-      ),
-      body: Center(
-        child: InkWell(
-          onTap: () {
-            themeChange.darkTheme = !themeChange.darkTheme;
-          },
-          child: Text("click me"),
+    return GestureDetector(
+      onTap: () {
+        myFocusNode.unfocus();
+      },
+      child: Scaffold(
+        resizeToAvoidBottomPadding: false,
+        appBar: AppBar(
+          title: Text("Postal finder"),
+          actions: [
+            IconButton(
+                icon: Icon(
+                  themeChange.darkTheme
+                      ? Icons.brightness_high
+                      : Icons.brightness_3,
+                ),
+                onPressed: () {
+                  themeChange.darkTheme = !themeChange.darkTheme;
+                })
+          ],
+        ),
+        body: Column(
+          children: [
+            Expanded(
+                flex: 1,
+                child: buildSearch(myFocusNode, "hintText", (query) {
+                  filterResult(query);
+                }, textEditingController)),
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Text(
+                "Provinces",
+                style: TextStyle(fontSize: 20),
+              ),
+            ),
+            Expanded(
+              flex: 6,
+              child: GridView.count(
+                  crossAxisCount: 2,
+                  children: List.generate(provincesList.length, (index) {
+                    return Container(
+                      decoration: BoxDecoration(
+                        color: themeChange.darkTheme
+                            ? kMainColor
+                            : kSecondaryColor,
+                        image: DecorationImage(
+                          image: AssetImage(
+                              'assets/images/${provincesList[index].image}'),
+                          fit: BoxFit.cover,
+                          // colorFilter: new ColorFilter.mode(
+                          //     Colors.white.withOpacity(0.8),
+                          //     BlendMode.luminosity),
+                        ),
+                        borderRadius: BorderRadius.only(
+                          topLeft: Radius.circular(12),
+                          topRight: Radius.circular(12),
+                        ),
+                      ),
+                      margin: EdgeInsets.all(5),
+                      width: width / 2,
+                      height: height / 4,
+                      child: Column(
+                        children: [
+                          Expanded(
+                            flex: 4,
+                            child: Container(
+                              decoration: BoxDecoration(
+                                borderRadius: BorderRadius.only(
+                                  topLeft: Radius.circular(12),
+                                  topRight: Radius.circular(12),
+                                ),
+                                // gradient: kMainGradient,
+                                // image: DecorationImage(
+                                //     image: AssetImage(
+                                //         'assets/images/${provincesList[index].image}'),
+                                //     fit: BoxFit.cover),
+                              ),
+                            ),
+                          ),
+                          Expanded(
+                              flex: 1,
+                              child: Container(
+                                padding: EdgeInsets.all(5),
+                                color: themeChange.darkTheme
+                                    ? Colors.black.withOpacity(0.8)
+                                    : kSecondaryColor.withOpacity(0.8),
+                                width: width,
+                                child: Row(
+                                  children: [
+                                    Text(
+                                      provincesList[index].name,
+                                      style: TextStyle(
+                                          fontSize: 16,
+                                          fontWeight: FontWeight.w600),
+                                    ),
+                                    Spacer(),
+                                    Text(
+                                      "${provincesList[index].count}",
+                                      style: TextStyle(
+                                          fontSize: 16,
+                                          fontWeight: FontWeight.w500),
+                                    ),
+                                  ],
+                                ),
+                              ))
+                        ],
+                      ),
+                    );
+                  })),
+            )
+          ],
         ),
       ),
     );

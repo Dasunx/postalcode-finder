@@ -1,3 +1,6 @@
+import 'dart:math';
+
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:postal_codes/classes/Constants.dart';
@@ -5,6 +8,7 @@ import 'package:postal_codes/classes/DarkThemeProvider.dart';
 import 'package:postal_codes/classes/PostalCodes.dart';
 import 'package:postal_codes/classes/Province.dart';
 import 'package:postal_codes/components/SearchBar.dart';
+import 'package:postal_codes/screens/ProvinceScreen.dart';
 import 'package:postal_codes/screens/SplashScreen.dart';
 import 'package:provider/provider.dart';
 
@@ -65,110 +69,155 @@ class _HomeScreenState extends State<HomeScreen> {
       },
       child: Scaffold(
         resizeToAvoidBottomPadding: false,
-        appBar: AppBar(
-          title: Text("Postal finder"),
-          actions: [
-            IconButton(
-                icon: Icon(
-                  themeChange.darkTheme
-                      ? Icons.brightness_high
-                      : Icons.brightness_3,
-                ),
-                onPressed: () {
-                  themeChange.darkTheme = !themeChange.darkTheme;
-                })
-          ],
-        ),
-        body: Column(
-          children: [
-            Expanded(
-                flex: 1,
-                child: buildSearch(myFocusNode, "hintText", (query) {
-                  filterResult(query);
-                }, textEditingController)),
-            Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: Text(
-                "Provinces",
-                style: TextStyle(fontSize: 20),
-              ),
-            ),
-            Expanded(
-              flex: 6,
-              child: GridView.count(
-                  crossAxisCount: 2,
-                  children: List.generate(provincesList.length, (index) {
-                    return Container(
-                      decoration: BoxDecoration(
-                        color: themeChange.darkTheme
-                            ? kMainColor
-                            : kSecondaryColor,
-                        image: DecorationImage(
-                          image: AssetImage(
-                              'assets/images/${provincesList[index].image}'),
-                          fit: BoxFit.cover,
-                          // colorFilter: new ColorFilter.mode(
-                          //     Colors.white.withOpacity(0.8),
-                          //     BlendMode.luminosity),
-                        ),
-                        borderRadius: BorderRadius.only(
-                          topLeft: Radius.circular(12),
-                          topRight: Radius.circular(12),
+        body: SafeArea(
+          child: Column(
+            children: [
+              Expanded(
+                flex:
+                    MediaQuery.of(context).orientation == Orientation.landscape
+                        ? 2
+                        : 1,
+                child: Padding(
+                  padding: const EdgeInsets.only(left: 20, right: 10),
+                  child: Row(
+                    children: [
+                      Text(
+                        "Postal codes",
+                        style: TextStyle(
+                          fontSize: 25,
+                          fontWeight: FontWeight.bold,
+                          fontFamily: GoogleFonts.alata().fontFamily,
                         ),
                       ),
-                      margin: EdgeInsets.all(5),
-                      width: width / 2,
-                      height: height / 4,
-                      child: Column(
-                        children: [
-                          Expanded(
-                            flex: 4,
-                            child: Container(
-                              decoration: BoxDecoration(
-                                borderRadius: BorderRadius.only(
-                                  topLeft: Radius.circular(12),
-                                  topRight: Radius.circular(12),
-                                ),
-                                // gradient: kMainGradient,
-                                // image: DecorationImage(
-                                //     image: AssetImage(
-                                //         'assets/images/${provincesList[index].image}'),
-                                //     fit: BoxFit.cover),
-                              ),
+                      Spacer(),
+                      IconButton(
+                          color: themeChange.darkTheme
+                              ? Colors.yellow
+                              : Colors.black,
+                          icon: Transform.rotate(
+                            angle: 180 * pi / 180,
+                            child: Icon(
+                              themeChange.darkTheme
+                                  ? CupertinoIcons.lightbulb_fill
+                                  : CupertinoIcons.lightbulb_slash_fill,
                             ),
                           ),
-                          Expanded(
-                              flex: 1,
+                          onPressed: () {
+                            themeChange.darkTheme = !themeChange.darkTheme;
+                          })
+                    ],
+                  ),
+                ),
+              ),
+              Expanded(
+                  flex: MediaQuery.of(context).orientation ==
+                          Orientation.landscape
+                      ? 3
+                      : 1,
+                  child: buildSearch(myFocusNode, "මහනුවර", (query) {
+                    filterResult(query);
+                  }, textEditingController, themeChange.darkTheme)),
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Text(
+                  "Provinces",
+                  style: TextStyle(fontSize: 20),
+                ),
+              ),
+              Expanded(
+                flex: 10,
+                child: OrientationBuilder(
+                  builder: (context, orientation) {
+                    return GridView.count(
+                        crossAxisCount:
+                            orientation == Orientation.portrait ? 2 : 4,
+                        children: List.generate(provincesList.length, (index) {
+                          return GestureDetector(
+                            onTap: () {
+                              Navigator.pushNamed(context, ViewProvince.id,
+                                  arguments: provincesList[index]);
+                            },
+                            child: Hero(
+                              tag: provincesList[index].name,
                               child: Container(
-                                padding: EdgeInsets.all(5),
-                                color: themeChange.darkTheme
-                                    ? Colors.black.withOpacity(0.8)
-                                    : kSecondaryColor.withOpacity(0.8),
-                                width: width,
-                                child: Row(
+                                decoration: BoxDecoration(
+                                  color: themeChange.darkTheme
+                                      ? kMainColor
+                                      : kSecondaryColor,
+                                  image: DecorationImage(
+                                    image: AssetImage(
+                                        'assets/images/${provincesList[index].image}'),
+                                    fit: BoxFit.cover,
+                                    // colorFilter: new ColorFilter.mode(
+                                    //     Colors.white.withOpacity(0.8),
+                                    //     BlendMode.luminosity),
+                                  ),
+                                  borderRadius: BorderRadius.only(
+                                    topLeft: Radius.circular(12),
+                                    topRight: Radius.circular(12),
+                                  ),
+                                ),
+                                margin: EdgeInsets.all(5),
+                                width: width / 2,
+                                height: height / 4,
+                                child: Column(
                                   children: [
-                                    Text(
-                                      provincesList[index].name,
-                                      style: TextStyle(
-                                          fontSize: 16,
-                                          fontWeight: FontWeight.w600),
+                                    Expanded(
+                                      flex: 4,
+                                      child: Container(
+                                        decoration: BoxDecoration(
+                                          borderRadius: BorderRadius.only(
+                                            topLeft: Radius.circular(12),
+                                            topRight: Radius.circular(12),
+                                          ),
+                                          // gradient: kMainGradient,
+                                          // image: DecorationImage(
+                                          //     image: AssetImage(
+                                          //         'assets/images/${provincesList[index].image}'),
+                                          //     fit: BoxFit.cover),
+                                        ),
+                                      ),
                                     ),
-                                    Spacer(),
-                                    Text(
-                                      "${provincesList[index].count}",
-                                      style: TextStyle(
-                                          fontSize: 16,
-                                          fontWeight: FontWeight.w500),
-                                    ),
+                                    Expanded(
+                                        flex: 1,
+                                        child: Container(
+                                          padding: EdgeInsets.all(5),
+                                          color: themeChange.darkTheme
+                                              ? Colors.black.withOpacity(0.8)
+                                              : kSecondaryColor
+                                                  .withOpacity(0.8),
+                                          width: width,
+                                          child: Row(
+                                            children: [
+                                              Text(
+                                                provincesList[index].name,
+                                                style: TextStyle(
+                                                    fontSize: 16,
+                                                    fontWeight:
+                                                        FontWeight.w600),
+                                              ),
+                                              Spacer(),
+                                              Text(
+                                                "${provincesList[index].count}",
+                                                style: TextStyle(
+                                                    fontSize: 16,
+                                                    fontWeight:
+                                                        FontWeight.w500),
+                                              ),
+                                            ],
+                                          ),
+                                        ))
                                   ],
                                 ),
-                              ))
-                        ],
-                      ),
-                    );
-                  })),
-            )
-          ],
+                              ),
+                            ),
+                          );
+                        }));
+                  },
+                ),
+              )
+            ],
+          ),
         ),
       ),
     );

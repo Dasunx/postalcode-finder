@@ -230,6 +230,9 @@
 //   }
 // }
 
+import 'dart:math';
+
+import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:postal_codes/classes/Constants.dart';
@@ -249,17 +252,45 @@ class ViewProvince extends StatefulWidget {
 }
 
 class _ViewProvinceState extends State<ViewProvince> {
+  List<PostalCodes> fullList = List<PostalCodes>();
   List<PostalCodes> postalCodes = List<PostalCodes>();
   FocusNode myFocusNode = new FocusNode();
   TextEditingController textEditingController = new TextEditingController();
   @override
   void initState() {
+    //fullList.addAll(widget.province.postalCodes);
     postalCodes.addAll(widget.province.postalCodes);
-
+    fullList.addAll(postalCodes);
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
       statusBarColor: Colors.transparent,
     ));
     super.initState();
+  }
+
+  void filterResult(String query) {
+    if (query.isNotEmpty) {
+      List<PostalCodes> filteredList = List<PostalCodes>();
+      fullList.forEach((element) {
+        if (element.town.toLowerCase().contains(query.toLowerCase()) ||
+            element.code.toLowerCase().contains(query.toLowerCase())) {
+          filteredList.add(element);
+        }
+      });
+      if (mounted) {
+        setState(() {
+          postalCodes.clear();
+          postalCodes.addAll(filteredList);
+        });
+      }
+      return;
+    } else {
+      if (mounted) {
+        setState(() {
+          postalCodes.clear();
+          postalCodes.addAll(fullList);
+        });
+      }
+    }
   }
 
   @override
@@ -285,9 +316,9 @@ class _ViewProvinceState extends State<ViewProvince> {
                 margin: EdgeInsets.only(bottom: 8),
                 child: buildSearch(
                   myFocusNode,
-                  "මහනුවර",
-                  (s) {
-                    print(s);
+                  tr(postalCodes[0 + Random().nextInt(4 - 0)].town),
+                  (query) {
+                    filterResult(query);
                   },
                   textEditingController,
                   themeChange.darkTheme,
@@ -334,7 +365,7 @@ class _ViewProvinceState extends State<ViewProvince> {
                           padding: EdgeInsets.all(10),
                           child: Center(
                             child: Text(
-                              widget.province.name,
+                              "${tr("province")} - ${tr(widget.province.name)}",
                               style: TextStyle(fontSize: 28),
                             ),
                           ),

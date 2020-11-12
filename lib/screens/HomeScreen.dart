@@ -1,5 +1,6 @@
 import 'dart:math';
 
+import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -26,6 +27,8 @@ class _HomeScreenState extends State<HomeScreen> {
   List<Province> provincesList = List<Province>();
   FocusNode myFocusNode = new FocusNode();
   TextEditingController textEditingController = new TextEditingController();
+  String ans = "En";
+  String locale = "en";
   @override
   void initState() {
     fullList = widget.provinces;
@@ -33,11 +36,16 @@ class _HomeScreenState extends State<HomeScreen> {
     super.initState();
   }
 
+  void changeLocale(String locale) {
+    EasyLocalization.of(context).locale = Locale(locale);
+  }
+
   void filterResult(String query) {
     if (query.isNotEmpty) {
       List<Province> filteredList = List<Province>();
       fullList.forEach((element) {
-        if (element.name.toLowerCase().contains(query.toLowerCase())) {
+        if (element.name.toLowerCase().contains(query.toLowerCase()) ||
+            tr(element.name).contains(query)) {
           filteredList.add(element);
         }
       });
@@ -60,6 +68,12 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+    EasyLocalization.of(context).locale.toString() == "si"
+        ? ans = "සිං"
+        : EasyLocalization.of(context).locale.toString() == "ta"
+            ? ans = "த"
+            : ans = "En";
+    locale = EasyLocalization.of(context).locale.toString();
     double width = MediaQuery.of(context).size.width;
     double height = MediaQuery.of(context).size.height;
     final themeChange = Provider.of<DarkThemeProvider>(context);
@@ -82,14 +96,64 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: Row(
                     children: [
                       Text(
-                        "Postal codes",
+                        "postalCodes",
                         style: TextStyle(
-                          fontSize: 25,
+                          fontSize: locale == "ta" ? 20 : 25,
                           fontWeight: FontWeight.bold,
                           fontFamily: GoogleFonts.alata().fontFamily,
                         ),
-                      ),
+                      ).tr(),
                       Spacer(),
+                      PopupMenuButton<String>(
+                        elevation: 50,
+                        padding: EdgeInsets.fromLTRB(5, 0, 0, 0),
+                        icon: CircleAvatar(
+                          child: Text(ans),
+                        ),
+                        itemBuilder: (BuildContext context) =>
+                            <PopupMenuEntry<String>>[
+                          PopupMenuItem<String>(
+                            value: "si",
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                              children: [
+                                CircleAvatar(child: Text("සිං")),
+                                Text("සිංහල"),
+                              ],
+                            ),
+                          ),
+                          PopupMenuItem<String>(
+                            value: "en",
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                              children: [
+                                CircleAvatar(child: Text("En")),
+                                Text("English"),
+                              ],
+                            ),
+                          ),
+                          PopupMenuItem<String>(
+                            value: "ta",
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                              children: [
+                                CircleAvatar(child: Text("த")),
+                                Text("தமிழ்"),
+                              ],
+                            ),
+                          )
+                        ],
+                        onSelected: (String value) {
+                          changeLocale(value);
+                          setState(() {
+                            value == "si"
+                                ? ans = "සිං"
+                                : value == "ta"
+                                    ? ans = "த"
+                                    : ans = "En";
+                          });
+                        },
+                      ),
                       IconButton(
                           color: themeChange.darkTheme
                               ? Colors.yellow
@@ -104,7 +168,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           ),
                           onPressed: () {
                             themeChange.darkTheme = !themeChange.darkTheme;
-                          })
+                          }),
                     ],
                   ),
                 ),
@@ -114,18 +178,18 @@ class _HomeScreenState extends State<HomeScreen> {
                           Orientation.landscape
                       ? 3
                       : 1,
-                  child: buildSearch(myFocusNode, "මහනුවර", (query) {
+                  child: buildSearch(myFocusNode, tr("Sabaragamuwa"), (query) {
                     filterResult(query);
                   }, textEditingController, themeChange.darkTheme)),
               Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Text(
-                  "Provinces",
+                  "provinces",
                   style: TextStyle(fontSize: 20),
-                ),
+                ).tr(),
               ),
               Expanded(
-                flex: 10,
+                flex: provincesList.length > 0 ? 10 : 1,
                 child: OrientationBuilder(
                   builder: (context, orientation) {
                     return GridView.count(
@@ -195,7 +259,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                                     fontSize: 16,
                                                     fontWeight:
                                                         FontWeight.w600),
-                                              ),
+                                              ).tr(),
                                               Spacer(),
                                               Text(
                                                 "${provincesList[index].count}",
@@ -215,7 +279,13 @@ class _HomeScreenState extends State<HomeScreen> {
                         }));
                   },
                 ),
-              )
+              ),
+              Visibility(
+                  visible: provincesList.length <= 0 ? true : false,
+                  child: Expanded(
+                    flex: 9,
+                    child: Text("no_province"),
+                  )),
             ],
           ),
         ),

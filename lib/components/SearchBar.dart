@@ -16,7 +16,7 @@ Widget buildSearch(FocusNode myFocusNode, String hintText, Function onChange,
         focusNode: myFocusNode,
         onChanged: onChange,
         clearButtonMode: OverlayVisibilityMode.editing,
-        placeholder: "Search your city",
+        placeholder: hintText,
         placeholderStyle: TextStyle(
           color: Color(
             0xff98989d,

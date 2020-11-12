@@ -17,13 +17,23 @@ Widget buildSearch(FocusNode myFocusNode, String hintText, Function onChange,
         onChanged: onChange,
         clearButtonMode: OverlayVisibilityMode.editing,
         placeholder: "Search your city",
+        placeholderStyle: TextStyle(
+          color: Color(
+            0xff98989d,
+          ),
+        ),
         prefix: Padding(
           padding: const EdgeInsets.only(left: 8.0),
-          child: Icon(CupertinoIcons.search),
+          child: Icon(
+            CupertinoIcons.search,
+            color: Color(
+              0xff98989d,
+            ),
+          ),
         ),
         prefixMode: OverlayVisibilityMode.notEditing,
         decoration: BoxDecoration(
-          color: !isDarkTheme ? Colors.black12 : Colors.white12,
+          color: !isDarkTheme ? Color(0xffefeff0) : Color(0xffefeff0),
           borderRadius: BorderRadius.all(
             Radius.circular(
               10,

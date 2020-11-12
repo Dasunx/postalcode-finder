@@ -15,6 +15,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   loadData() async {
     provinces = await Province().loadJson();
+
     if (provinces != null) {
       Navigator.pushReplacementNamed(context, HomeScreen.id,
           arguments: provinces);

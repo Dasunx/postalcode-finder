@@ -8,6 +8,7 @@ import 'package:postal_codes/classes/DarkThemeProvider.dart';
 import 'package:postal_codes/classes/PostalCodes.dart';
 import 'package:postal_codes/classes/Province.dart';
 import 'package:postal_codes/components/SearchBar.dart';
+import 'package:postal_codes/screens/ProvinceScreen.dart';
 import 'package:postal_codes/screens/SplashScreen.dart';
 import 'package:provider/provider.dart';
 
@@ -133,11 +134,15 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
               Expanded(
                 flex: 10,
-                child: Container(
-                  child: GridView.count(
-                      crossAxisCount: 2,
-                      children: List.generate(provincesList.length, (index) {
-                        return Container(
+                child: GridView.count(
+                    crossAxisCount: 2,
+                    children: List.generate(provincesList.length, (index) {
+                      return GestureDetector(
+                        onTap: () {
+                          Navigator.pushNamed(context, ViewProvince.id,
+                              arguments: provincesList[index]);
+                        },
+                        child: Container(
                           decoration: BoxDecoration(
                             color: themeChange.darkTheme
                                 ? kMainColor
@@ -204,9 +209,9 @@ class _HomeScreenState extends State<HomeScreen> {
                                   ))
                             ],
                           ),
-                        );
-                      })),
-                ),
+                        ),
+                      );
+                    })),
               )
             ],
           ),

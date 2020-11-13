@@ -316,7 +316,7 @@ class _ViewProvinceState extends State<ViewProvince> {
                 margin: EdgeInsets.only(bottom: 8),
                 child: buildSearch(
                   myFocusNode,
-                  tr(postalCodes[0 + Random().nextInt(4 - 0)].town),
+                  fullList[0 + Random().nextInt(4 - 0)].town,
                   (query) {
                     filterResult(query);
                   },
@@ -329,49 +329,46 @@ class _ViewProvinceState extends State<ViewProvince> {
               floating: true,
               pinned: true,
               // Display a placeholder widget to visualize the shrinking size.
-              flexibleSpace: Hero(
-                tag: widget.province.name,
-                child: InteractiveViewer(
-                  //boundaryMargin: EdgeInsets.all(20.0),
-                  minScale: 1,
-                  maxScale: 2,
-                  child: Container(
-                    decoration: BoxDecoration(
-                      color:
-                          themeChange.darkTheme ? kMainColor : kSecondaryColor,
-                      image: DecorationImage(
-                        image: AssetImage(
-                            'assets/images/${widget.province.image}'),
-                        fit: BoxFit.cover,
-                        // colorFilter: new ColorFilter.mode(
-                        //     Colors.white.withOpacity(0.8),
-                        //     BlendMode.luminosity),
-                      ),
-                      borderRadius: BorderRadius.only(
-                        topLeft: Radius.circular(12),
-                        topRight: Radius.circular(12),
-                      ),
+              flexibleSpace: InteractiveViewer(
+                //boundaryMargin: EdgeInsets.all(20.0),
+                minScale: 1,
+                maxScale: 2,
+                child: Container(
+                  decoration: BoxDecoration(
+                    color:
+                        themeChange.darkTheme ? kMainColor : kSecondaryColor,
+                    image: DecorationImage(
+                      image: AssetImage(
+                          'assets/images/${widget.province.image}'),
+                      fit: BoxFit.cover,
+                      // colorFilter: new ColorFilter.mode(
+                      //     Colors.white.withOpacity(0.8),
+                      //     BlendMode.luminosity),
                     ),
-                    // margin: EdgeInsets.all(5),
-                    width: width,
-                    height: height,
-                    child: Column(
-                      mainAxisAlignment: MainAxisAlignment.end,
-                      crossAxisAlignment: CrossAxisAlignment.stretch,
-                      children: [
-                        Container(
-                          //width: width,
-                          color: kMainColor.withOpacity(0.8),
-                          padding: EdgeInsets.all(10),
-                          child: Center(
-                            child: Text(
-                              "${tr("province")} - ${tr(widget.province.name)}",
-                              style: TextStyle(fontSize: 28),
-                            ),
+                    borderRadius: BorderRadius.only(
+                      topLeft: Radius.circular(12),
+                      topRight: Radius.circular(12),
+                    ),
+                  ),
+                  // margin: EdgeInsets.all(5),
+                  width: width,
+                  height: height,
+                  child: Column(
+                    mainAxisAlignment: MainAxisAlignment.end,
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      Container(
+                        //width: width,
+                        color: kMainColor.withOpacity(0.8),
+                        padding: EdgeInsets.all(10),
+                        child: Center(
+                          child: Text(
+                            "${tr("province")} - ${tr(widget.province.name)}",
+                            style: TextStyle(fontSize: 28),
                           ),
                         ),
-                      ],
-                    ),
+                      ),
+                    ],
                   ),
                 ),
               ),
@@ -380,89 +377,86 @@ class _ViewProvinceState extends State<ViewProvince> {
             ),
             SliverGrid(
               gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 2,
+                crossAxisCount: MediaQuery.of(context).orientation == Orientation.portrait ? 2 : 4,
               ),
               delegate: SliverChildBuilderDelegate(
                 // displays the index of the current item.
                 (context, index) {
-                  return Hero(
-                    tag: postalCodes[index].town,
-                    child: Container(
-                      decoration: BoxDecoration(
-                        color: themeChange.darkTheme
-                            ? kMainColor
-                            : kSecondaryColor,
-                        // image: DecorationImage(
-                        //   image: AssetImage(
-                        //       'assets/images/${widget.province.image}'),
-                        //   fit: BoxFit.cover,
-                        //   // colorFilter: new ColorFilter.mode(
-                        //   //     Colors.white.withOpacity(0.8),
-                        //   //     BlendMode.luminosity),
-                        // ),
-                        borderRadius: BorderRadius.only(
-                          topLeft: Radius.circular(12),
-                          topRight: Radius.circular(12),
-                        ),
+                  return Container(
+                    decoration: BoxDecoration(
+                      color: themeChange.darkTheme
+                          ? kMainColor
+                          : kSecondaryColor,
+                      // image: DecorationImage(
+                      //   image: AssetImage(
+                      //       'assets/images/${widget.province.image}'),
+                      //   fit: BoxFit.cover,
+                      //   // colorFilter: new ColorFilter.mode(
+                      //   //     Colors.white.withOpacity(0.8),
+                      //   //     BlendMode.luminosity),
+                      // ),
+                      borderRadius: BorderRadius.only(
+                        topLeft: Radius.circular(12),
+                        topRight: Radius.circular(12),
                       ),
-                      margin: EdgeInsets.all(5),
-                      width: width / 2,
-                      height: height / 4,
-                      child: Column(
-                        children: [
-                          Expanded(
-                            flex: 4,
-                            child: Container(
-                              child: Row(
-                                mainAxisAlignment: MainAxisAlignment.center,
-                                children: [
-                                  Flexible(
-                                    child: Text(
-                                      postalCodes[index].town,
-                                      textAlign: TextAlign.center,
-                                      style: TextStyle(
-                                          fontSize: 20,
-                                          fontWeight: FontWeight.w600),
-                                    ),
-                                  ),
-                                ],
-                              ),
-                              decoration: BoxDecoration(
-                                borderRadius: BorderRadius.only(
-                                  topLeft: Radius.circular(12),
-                                  topRight: Radius.circular(12),
-                                ),
-                                // gradient: kMainGradient,
-                                // image: DecorationImage(
-                                //     image: AssetImage(
-                                //         'assets/images/${provincesList[index].image}'),
-                                //     fit: BoxFit.cover),
-                              ),
-                            ),
-                          ),
-                          Expanded(
-                            flex: 2,
-                            child: Container(
-                              padding: EdgeInsets.all(5),
-                              color: themeChange.darkTheme
-                                  ? Colors.black.withOpacity(0.8)
-                                  : Colors.blue.withOpacity(0.8),
-                              width: width,
-                              child: Row(
-                                mainAxisAlignment: MainAxisAlignment.center,
-                                children: [
-                                  Text(
-                                    "${postalCodes[index].code}",
+                    ),
+                    margin: EdgeInsets.all(5),
+                    width: width / 2,
+                    height: height / 4,
+                    child: Column(
+                      children: [
+                        Expanded(
+                          flex: 4,
+                          child: Container(
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Flexible(
+                                  child: Text(
+                                    postalCodes[index].town,
+                                    textAlign: TextAlign.center,
                                     style: TextStyle(
                                         fontSize: 20,
                                         fontWeight: FontWeight.w600),
                                   ),
-                                ],
+                                ),
+                              ],
+                            ),
+                            decoration: BoxDecoration(
+                              borderRadius: BorderRadius.only(
+                                topLeft: Radius.circular(12),
+                                topRight: Radius.circular(12),
                               ),
+                              // gradient: kMainGradient,
+                              // image: DecorationImage(
+                              //     image: AssetImage(
+                              //         'assets/images/${provincesList[index].image}'),
+                              //     fit: BoxFit.cover),
                             ),
                           ),
-                        ],
-                      ),
+                        ),
+                        Expanded(
+                          flex: 2,
+                          child: Container(
+                            padding: EdgeInsets.all(5),
+                            color: themeChange.darkTheme
+                                ? Colors.black.withOpacity(0.8)
+                                : Colors.blue.withOpacity(0.8),
+                            width: width,
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              children: [
+                                Text(
+                                  "${postalCodes[index].code}",
+                                  style: TextStyle(
+                                      fontSize: 20,
+                                      fontWeight: FontWeight.w600),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                      ],
                     ),
                   );
                 },

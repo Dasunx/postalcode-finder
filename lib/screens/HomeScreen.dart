@@ -105,8 +105,8 @@ class _HomeScreenState extends State<HomeScreen> {
                       ).tr(),
                       Spacer(),
                       PopupMenuButton<String>(
-                        elevation: 50,
-                        padding: EdgeInsets.fromLTRB(5, 0, 0, 0),
+                        
+                        padding: EdgeInsets.fromLTRB(0, 0, 0, 0),
                         icon: CircleAvatar(
                           child: Text(ans),
                         ),
@@ -115,9 +115,9 @@ class _HomeScreenState extends State<HomeScreen> {
                           PopupMenuItem<String>(
                             value: "si",
                             child: Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                              mainAxisAlignment: MainAxisAlignment.start,
                               children: [
-                                CircleAvatar(child: Text("සිං")),
+                                CircleAvatar(child: Text("සිං")),SizedBox(width: 10,),
                                 Text("සිංහල"),
                               ],
                             ),
@@ -125,9 +125,9 @@ class _HomeScreenState extends State<HomeScreen> {
                           PopupMenuItem<String>(
                             value: "en",
                             child: Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                              mainAxisAlignment: MainAxisAlignment.start,
                               children: [
-                                CircleAvatar(child: Text("En")),
+                                CircleAvatar(child: Text("En")),SizedBox(width: 10,),
                                 Text("English"),
                               ],
                             ),
@@ -135,9 +135,10 @@ class _HomeScreenState extends State<HomeScreen> {
                           PopupMenuItem<String>(
                             value: "ta",
                             child: Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                              mainAxisAlignment: MainAxisAlignment.start,
+                          
                               children: [
-                                CircleAvatar(child: Text("த")),
+                                CircleAvatar(child: Text("த")),SizedBox(width: 10,),
                                 Text("தமிழ்"),
                               ],
                             ),

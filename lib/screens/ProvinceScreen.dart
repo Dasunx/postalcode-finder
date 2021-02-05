@@ -235,6 +235,7 @@ import 'dart:math';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:palette_generator/palette_generator.dart';
 import 'package:postal_codes/classes/Constants.dart';
 import 'package:postal_codes/classes/DarkThemeProvider.dart';
 import 'package:postal_codes/classes/PostalCodes.dart';
@@ -252,10 +253,13 @@ class ViewProvince extends StatefulWidget {
 }
 
 class _ViewProvinceState extends State<ViewProvince> {
+  PaletteColor paletteColor;
+  PaletteColor paletteColorDark;
   List<PostalCodes> fullList = List<PostalCodes>();
   List<PostalCodes> postalCodes = List<PostalCodes>();
   FocusNode myFocusNode = new FocusNode();
   TextEditingController textEditingController = new TextEditingController();
+
   @override
   void initState() {
     //fullList.addAll(widget.province.postalCodes);
@@ -264,7 +268,22 @@ class _ViewProvinceState extends State<ViewProvince> {
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
       statusBarColor: Colors.transparent,
     ));
+    _updatePalette();
     super.initState();
+  }
+
+  _updatePalette() async {
+    final PaletteGenerator paletteGenerator =
+        await PaletteGenerator.fromImageProvider(
+      AssetImage('assets/images/${widget.province.image}'),
+    );
+    paletteColorDark = paletteGenerator.darkMutedColor != null
+        ? paletteGenerator.darkMutedColor
+        : PaletteColor(Colors.blue, 2);
+    paletteColor = paletteGenerator.lightMutedColor != null
+        ? paletteGenerator.lightMutedColor
+        : PaletteColor(Colors.blue, 2);
+    setState(() {});
   }
 
   void filterResult(String query) {
@@ -335,11 +354,10 @@ class _ViewProvinceState extends State<ViewProvince> {
                 maxScale: 2,
                 child: Container(
                   decoration: BoxDecoration(
-                    color:
-                        themeChange.darkTheme ? kMainColor : kSecondaryColor,
+                    color: themeChange.darkTheme ? kMainColor : kSecondaryColor,
                     image: DecorationImage(
-                      image: AssetImage(
-                          'assets/images/${widget.province.image}'),
+                      image:
+                          AssetImage('assets/images/${widget.province.image}'),
                       fit: BoxFit.cover,
                       // colorFilter: new ColorFilter.mode(
                       //     Colors.white.withOpacity(0.8),
@@ -359,7 +377,13 @@ class _ViewProvinceState extends State<ViewProvince> {
                     children: [
                       Container(
                         //width: width,
-                        color: kMainColor.withOpacity(0.8),
+                        color: themeChange.darkTheme
+                            ? paletteColorDark != null
+                                ? paletteColorDark.color.withOpacity(0.8)
+                                : kMainColor.withOpacity(0.8)
+                            : paletteColor != null
+                                ? paletteColor.color.withOpacity(0.8)
+                                : kMainColor.withOpacity(0.8),
                         padding: EdgeInsets.all(10),
                         child: Center(
                           child: Text(
@@ -377,16 +401,18 @@ class _ViewProvinceState extends State<ViewProvince> {
             ),
             SliverGrid(
               gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: MediaQuery.of(context).orientation == Orientation.portrait ? 2 : 4,
+                crossAxisCount:
+                    MediaQuery.of(context).orientation == Orientation.portrait
+                        ? 2
+                        : 4,
               ),
               delegate: SliverChildBuilderDelegate(
                 // displays the index of the current item.
                 (context, index) {
                   return Container(
                     decoration: BoxDecoration(
-                      color: themeChange.darkTheme
-                          ? kMainColor
-                          : kSecondaryColor,
+                      color:
+                          themeChange.darkTheme ? kMainColor : kSecondaryColor,
                       // image: DecorationImage(
                       //   image: AssetImage(
                       //       'assets/images/${widget.province.image}'),
